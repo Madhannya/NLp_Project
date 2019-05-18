@@ -14,9 +14,9 @@ for w in word :
         print(w)
 for x in word :
     for i,y in enumerate(x):
-        if i == 3 :
+        if i == 5 :
             openout.writelines(y + " " + "B-START"+"\n")
-        elif i == 5 :
+        elif i == 3 :
             openout.writelines(y +" " + "B-DEST"+"\n")
         else :
             openout.writelines(y + " " + "O"+"\n") 
