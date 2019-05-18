@@ -10,7 +10,7 @@ for line in opendict:
 dataset = [line.strip() for line in openfile]
 word = [[w for w in deepcut.tokenize(data, dict + ['ไป'])]for data in dataset]
 for w in word :
-    if len(w)!= 6 :
+    if len(w)!= 4 :
         print(w)
 for x in word :
     for i,y in enumerate(x):
