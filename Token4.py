@@ -15,9 +15,9 @@ for w in word :
 for x in word :
     for i,y in enumerate(x):
         if i == 0 :
-            openout.writelines(y + " " + "B-DEST"+"\n")
+            openout.writelines(y + " " + "B-START"+"\n")
         elif i == 2 :
-            openout.writelines(y +" " + "B-START"+"\n")
+            openout.writelines(y +" " + "B-DEST"+"\n")
         else :
             openout.writelines(y + " " + "O"+"\n") 
     openout.writelines('\n')
