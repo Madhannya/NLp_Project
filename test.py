@@ -1,6 +1,6 @@
 import random
-des =open("./Project/NLp_Project/Destination.txt","r",encoding = 'utf-8')
-sen =open("./Project/NLp_Project/sentance.txt","r",encoding = 'utf-8')
+des =open("./NLp_Project/Destination.txt","r",encoding = 'utf-8')
+sen =open("./NLp_Project/sentance.txt","r",encoding = 'utf-8')
 complete = []
 fplane = []
 Alldes=[]
@@ -70,8 +70,6 @@ for a3 in range(len(Allsen)-1):
                         #         else :
                         #             Alls = Alls + Alltime[randsen]
                                     
-
-
                         print(Alls)
                         complete[bb].append(Alls)
                         number = number +1
@@ -80,7 +78,7 @@ for a3 in range(len(Allsen)-1):
 des.close()
 print(number)
 for i, data in enumerate(complete):
-    fileout = open("./Project/NLp_Project/sentence"+str(i)+".txt","w", encoding='utf-8-sig')
+    fileout = open("./NLp_Project/sentence"+str(i)+".txt","w", encoding='utf-8-sig')
     for j in data:
         fileout.writelines(j+"\n")
 

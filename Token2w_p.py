@@ -1,9 +1,9 @@
 import deepcut
 dataset = []
 for i in range(4):            
-    openfile = open("./Project/NLp_Project/sentence0w_t" + str(i)+".txt","r", encoding='utf-8-sig')
+    openfile = open("./NLp_Project/sentence2w_p" + str(i)+".txt","r", encoding='utf-8-sig')
     dataset.append([line.strip() for line in openfile])
-opendict = open("./Project/NLp_Project/Destination.txt","r",encoding='utf-8-sig')
+opendict = open("./NLp_Project/Destination.txt","r",encoding='utf-8-sig')
 opendict.readline()
 dict = []
 for line in opendict:
@@ -14,33 +14,33 @@ word = [[[w for w in deepcut.tokenize(data, dict + ['ไป', 'ราคา'])]f
 # for line in word[0]:
 #     print(line)    
 for w in word[0]:
-    if len(w)!= 8 :
+    if len(w)!= 6 :
         print(w)
 for w in word[1] :
-    if len(w)!=8 :
+    if len(w)!=6 :
         print(w)
 for w in word[2] :
-    if len(w)!=11 :
+    if len(w)!=9 :
         print(w)
 for w in word[3] :
-    if len(w)!=9 :
+    if len(w)!=7 :
         print(w)
 
 
 for j, x in enumerate(word):
-    openout = open("./Project/NLp_Project/laura0w_t"+str(j)+".txt","w",encoding='utf-8-sig')
+    openout = open("./NLp_Project/laura2w_p"+str(j)+".txt","w",encoding='utf-8-sig')
     for z in x:  
         for i,y in enumerate(z):
-            if i == 3 :
+            if i == 1 :
                 openout.writelines(y + " " + "B-START"+"\n")
-            elif i == 5 :
+            elif i == 3 :
                 openout.writelines(y +" " + "B-DEST"+"\n")
-            elif i < 6 :
+            elif i < 4 :
                 openout.writelines(y + " " + "O"+"\n") 
 
-            if i == 6:
+            if i == 4:
                 openout.writelines(y + " " + "B-PRICE"+"\n")
-            if i > 6 :
+            if i > 4 :
                 openout.writelines(y + " " + "I-PRICE"+"\n")
 
             # if j < 2:

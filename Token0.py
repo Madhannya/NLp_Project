@@ -1,7 +1,7 @@
 import deepcut
-openfile = open("./Project/NLp_Project/sentence0.txt","r", encoding='utf-8-sig')
-opendict = open("./Project/NLp_Project/Destination.txt","r",encoding='utf-8-sig')
-openout = open("./Project/NLp_Project/laura0.txt","w",encoding='utf-8-sig')
+openfile = open("./NLp_Project/sentence0.txt","r", encoding='utf-8-sig')
+opendict = open("./NLp_Project/Destination.txt","r",encoding='utf-8-sig')
+openout = open("./NLp_Project/laura0.txt","w",encoding='utf-8-sig')
 opendict.readline()
 dict = []
 for line in opendict:
