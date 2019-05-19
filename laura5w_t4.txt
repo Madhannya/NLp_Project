@@ -1,0 +1,4374 @@
+﻿เชียงใหม่ B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงใหม่ B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+BKK B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+DMK B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+เชียงราย B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+CEI B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+น่าน B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+NNT B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แพร่ B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ลำปาง B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+แม่สอด B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุโขทัย B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+พิษณุโลก B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุดรธานี B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครพนม B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ขอนเเก่น B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+อุบลราชธานี B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุรินทร์ B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ระนอง B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+สมุย B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ภูเก็ต B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+กระบี่ B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+หาดใหญ่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+ตรัง B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+เชียงใหม่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+BKK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+DMK B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+เชียงราย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+CEI B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+น่าน B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+NNT B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+แพร่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ลำปาง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+แม่สอด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สุโขทัย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+พิษณุโลก B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+อุดรธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+นครพนม B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สุรินทร์ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ระนอง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สมุย B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ภูเก็ต B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+กระบี่ B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ตรัง B-DEST
+ออก B-TIME
+บ่าย I-TIME
+
+หาดใหญ่ B-START
+ไป O
+นราธิวาส B-DEST
+ออก B-TIME
+บ่าย I-TIME
+

@@ -1,0 +1,2870 @@
+﻿เชียงใหม่ B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+เชียงใหม่ B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+เชียงใหม่ B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+เชียงใหม่ B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+เชียงใหม่ B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+เชียงใหม่ B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+เชียงใหม่ B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+เชียงใหม่ B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+เชียงใหม่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+เชียงใหม่ B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+BKK B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+BKK B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+BKK B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+BKK B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+BKK B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+BKK B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+BKK B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+BKK B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+DMK B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+DMK B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+DMK B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+DMK B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+DMK B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+DMK B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+DMK B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+DMK B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+DMK B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+DMK B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+DMK B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+DMK B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+CEI B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+CEI B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+CEI B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+CEI B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+เชียงราย B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+เชียงราย B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+เชียงราย B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+เชียงราย B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+CEI B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+เชียงราย B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+CEI B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+เชียงราย B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+CEI B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+CEI B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+CEI B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+เชียงราย B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+เชียงราย B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+เชียงราย B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+CEI B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+เชียงราย B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+แม่ฮ่องสอน B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+น่าน B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+น่าน B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+น่าน B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+น่าน B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+NNT B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+น่าน B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+น่าน B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+น่าน B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+น่าน B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+น่าน B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+น่าน B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+NNT B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+NNT B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+น่าน B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+NNT B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+น่าน B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+NNT B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+น่าน B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+NNT B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+น่าน B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+NNT B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+น่าน B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+น่าน B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+NNT B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+แพร่ B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+แพร่ B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+แพร่ B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+แพร่ B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+แพร่ B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+แพร่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+แพร่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+แพร่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+แพร่ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+แพร่ B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+แพร่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+แพร่ B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+ลำปาง B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ลำปาง B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+ลำปาง B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ลำปาง B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+ลำปาง B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+ลำปาง B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+ลำปาง B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+ลำปาง B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+ลำปาง B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ลำปาง B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+ลำปาง B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+แม่สอด B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+แม่สอด B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+แม่สอด B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+แม่สอด B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+แม่สอด B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+แม่สอด B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+แม่สอด B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+แม่สอด B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+แม่สอด B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+แม่สอด B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+แม่สอด B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+แม่สอด B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+แม่สอด B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+แม่สอด B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+แม่สอด B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+สุโขทัย B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+สุโขทัย B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+สุโขทัย B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+สุโขทัย B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+สุโขทัย B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+สุโขทัย B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สุโขทัย B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+สุโขทัย B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+สุโขทัย B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+สุโขทัย B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+พิษณุโลก B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+พิษณุโลก B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+พิษณุโลก B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+พิษณุโลก B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+พิษณุโลก B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+พิษณุโลก B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+พิษณุโลก B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+พิษณุโลก B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+อุดรธานี B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+อุดรธานี B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+อุดรธานี B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+อุดรธานี B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+อุดรธานี B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+อุดรธานี B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+อุดรธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+อุดรธานี B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+นครพนม B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+นครพนม B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+นครพนม B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+นครพนม B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+นครพนม B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+นครพนม B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+นครพนม B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+นครพนม B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+นครพนม B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+นครพนม B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+นครพนม B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+นครพนม B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+ขอนเเก่น B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+ขอนเเก่น B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+ขอนเเก่น B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+ขอนเเก่น B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+2 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+ร้อยเอ็ด B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+อุบลราชธานี B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+9 I-TIME
+โมงเช้า I-TIME
+
+อุบลราชธานี B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สุรินทร์ B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+สุรินทร์ B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+สุรินทร์ B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+สุรินทร์ B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+สุรินทร์ B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+สุรินทร์ B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+ระนอง B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+ระนอง B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+ระนอง B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+ระนอง B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+ระนอง B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+นครศรีธรรมราช B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ระนอง B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+ระนอง B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+ระนอง B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+สุราษฎร์ธานี B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+สมุย B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+สมุย B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+11 I-TIME
+โมงเช้า I-TIME
+
+สมุย B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+สมุย B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+สมุย B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+สมุย B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+สมุย B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+สมุย B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+สมุย B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+สมุย B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+4 I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+1 I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+นครศรีธรรมราช B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+ภูเก็ต B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+ภูเก็ต B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+1 I-TIME
+
+ภูเก็ต B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+ภูเก็ต B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+3 I-TIME
+
+ภูเก็ต B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+ภูเก็ต B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+ภูเก็ต B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+ภูเก็ต B-START
+ไป O
+ตรัง B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+กระบี่ B-START
+ไป O
+เชียงใหม่ B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+กระบี่ B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+กระบี่ B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+กระบี่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+แพร่ B-DEST
+ประมาณ B-TIME
+8 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+แม่สอด B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+กระบี่ B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+อุดรธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+ร้อยเอ็ด B-DEST
+ประมาณ B-TIME
+6 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+กระบี่ B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+10 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
+กระบี่ B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+กระบี่ B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+กระบี่ B-START
+ไป O
+หาดใหญ่ B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+ตรัง B-START
+ไป O
+BKK B-DEST
+ประมาณ B-TIME
+1 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+DMK B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+CEI B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+ตรัง B-START
+ไป O
+NNT B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+ลำปาง B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+ตรัง B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+สุราษฎร์ธานี B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+ตรัง B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+ตรัง B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+หาดใหญ่ B-START
+ไป O
+เชียงราย B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+แม่ฮ่องสอน B-DEST
+ประมาณ B-TIME
+2 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+น่าน B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+2 I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สุโขทัย B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+พิษณุโลก B-DEST
+ประมาณ B-TIME
+4 I-TIME
+ทุ่ม I-TIME
+
+หาดใหญ่ B-START
+ไป O
+นครพนม B-DEST
+ประมาณ B-TIME
+1 I-TIME
+ทุ่ม I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ขอนเเก่น B-DEST
+ประมาณ B-TIME
+ตี I-TIME
+5 I-TIME
+
+หาดใหญ่ B-START
+ไป O
+อุบลราชธานี B-DEST
+ประมาณ B-TIME
+3 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สุรินทร์ B-DEST
+ประมาณ B-TIME
+5 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ระนอง B-DEST
+ประมาณ B-TIME
+7 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+สมุย B-DEST
+ประมาณ B-TIME
+3 I-TIME
+ทุ่ม I-TIME
+
+หาดใหญ่ B-START
+ไป O
+ภูเก็ต B-DEST
+ประมาณ B-TIME
+2 I-TIME
+ทุ่ม I-TIME
+
+หาดใหญ่ B-START
+ไป O
+กระบี่ B-DEST
+ประมาณ B-TIME
+4 I-TIME
+โมงเช้า I-TIME
+
+หาดใหญ่ B-START
+ไป O
+นราธิวาส B-DEST
+ประมาณ B-TIME
+บ่าย I-TIME
+3 I-TIME
+
