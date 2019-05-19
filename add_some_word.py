@@ -15,18 +15,16 @@ def load_data(part):
                 
     return sents, labels
 
-f = load_data('NLp_Project/laura0.txt')
+x, y = load_data('NLp_Project/laura0.txt')
 # print(f)
 
 def write_data(data ,part):
     with open(part, 'w', encoding='utf-8-sig') as f:
-        for j, sentence in enumerate(data):
-            for word in sentence:
-                for i in range(6):
-                    if i == 4:
-                        f.writelines('กลับ O\n')
-                    else :
-                        f.writelines(word[i] + " " + data[1][j][i] + "\n")
-                f.writelines('\n')
+        for sen, label in data:
+            for i in range(6):
+                if i == 5:
+                    f.writelines('กลับ O\n')
+                f.writelines(sen[i] + " " + label[i] + "\n")
+            f.writelines('\n')
 
-write_data(f ,'NLp_Project/some_word1.txt')
+write_data(zip(x, y) ,'NLp_Project/some_word0.txt')
