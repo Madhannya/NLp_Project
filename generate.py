@@ -23,8 +23,8 @@ x_2, y_2 = load_data('dataset/laura3w_t1.txt')
 
 def write_data(data ,part):
     with open(part, 'w', encoding='utf-8-sig') as f:
-        f.writelines("ตั๋ว O\n")
         for sen, label in data:
+            f.writelines("ตั๋ว O\n")
             for i in range(8):
                 if i < 3:
                     f.writelines(sen[i] + " " + label[i] + "\n")

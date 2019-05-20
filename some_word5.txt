@@ -3,16 +3,18 @@
 - O
 BKK B-DEST
 4000 B-PRICE
-บ่าย B-TIME
+ตี B-TIME
 1 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 DMK B-DEST
 2300 B-PRICE
 4 B-TIME
-ทุ่ม I-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 เชียงราย B-DEST
@@ -20,83 +22,95 @@ DMK B-DEST
 4 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 CEI B-DEST
 1000 B-PRICE
-2 B-TIME
+4 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 แม่ฮ่องสอน B-DEST
 1100 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+1 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 น่าน B-DEST
 2400 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 NNT B-DEST
 3500 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 แพร่ B-DEST
 500 B-PRICE
-1 B-TIME
+3 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ลำปาง B-DEST
 2400 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 แม่สอด B-DEST
 3100 B-PRICE
-5 B-TIME
+1 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 สุโขทัย B-DEST
 1700 B-PRICE
-3 B-TIME
+7 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 พิษณุโลก B-DEST
 2000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+9 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 อุดรธานี B-DEST
 3000 B-PRICE
-11 B-TIME
+8 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 นครพนม B-DEST
 4600 B-PRICE
-4 B-TIME
+5 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ขอนเเก่น B-DEST
@@ -104,20 +118,23 @@ NNT B-DEST
 5 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ร้อยเอ็ด B-DEST
 4300 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 อุบลราชธานี B-DEST
 1600 B-PRICE
-ตี B-TIME
-2 I-TIME
+11 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 สุรินทร์ B-DEST
@@ -125,265 +142,303 @@ NNT B-DEST
 10 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ระนอง B-DEST
 1100 B-PRICE
-7 B-TIME
+11 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 สุราษฎร์ธานี B-DEST
 3300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 สมุย B-DEST
 4900 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 นครศรีธรรมราช B-DEST
 4600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+4 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ภูเก็ต B-DEST
 2700 B-PRICE
-ตี B-TIME
-4 I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 กระบี่ B-DEST
 2200 B-PRICE
-ตี B-TIME
-3 I-TIME
+6 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 ตรัง B-DEST
 1000 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+3 I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 หาดใหญ่ B-DEST
 3700 B-PRICE
 3 B-TIME
-ทุ่ม I-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงใหม่ B-START
 - O
 นราธิวาส B-DEST
 2100 B-PRICE
-4 B-TIME
+3 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 เชียงใหม่ B-DEST
 5000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 DMK B-DEST
 3700 B-PRICE
-ตี B-TIME
-4 I-TIME
+5 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 เชียงราย B-DEST
 2600 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 CEI B-DEST
 3700 B-PRICE
-2 B-TIME
+4 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 แม่ฮ่องสอน B-DEST
 600 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 น่าน B-DEST
 700 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+7 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 NNT B-DEST
 4300 B-PRICE
-ตี B-TIME
-4 I-TIME
+9 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 แพร่ B-DEST
 3300 B-PRICE
-8 B-TIME
+3 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ลำปาง B-DEST
 4200 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 แม่สอด B-DEST
 2500 B-PRICE
-ตี B-TIME
+บ่าย B-TIME
 1 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 สุโขทัย B-DEST
 3100 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 พิษณุโลก B-DEST
 900 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 อุดรธานี B-DEST
 1800 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 นครพนม B-DEST
 3000 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+3 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ขอนเเก่น B-DEST
 4700 B-PRICE
 1 B-TIME
-ทุ่ม I-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ร้อยเอ็ด B-DEST
 3600 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 อุบลราชธานี B-DEST
 3100 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 สุรินทร์ B-DEST
 3300 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+1 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ระนอง B-DEST
 1200 B-PRICE
-5 B-TIME
+2 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 สุราษฎร์ธานี B-DEST
 2600 B-PRICE
 ตี B-TIME
-4 I-TIME
+5 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 สมุย B-DEST
 1300 B-PRICE
-ตี B-TIME
-1 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 นครศรีธรรมราช B-DEST
 700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ภูเก็ต B-DEST
 2400 B-PRICE
-ตี B-TIME
+บ่าย B-TIME
 1 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 กระบี่ B-DEST
 1900 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 ตรัง B-DEST
 700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 หาดใหญ่ B-DEST
 4700 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 BKK B-START
 - O
 นราธิวาส B-DEST
 2400 B-PRICE
-11 B-TIME
+5 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 เชียงใหม่ B-DEST
 1600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 BKK B-DEST
@@ -391,496 +446,567 @@ BKK B-DEST
 2 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 เชียงราย B-DEST
 5000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 CEI B-DEST
 3700 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 แม่ฮ่องสอน B-DEST
 3200 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 น่าน B-DEST
 2600 B-PRICE
-4 B-TIME
+3 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 NNT B-DEST
 3200 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+1 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 แพร่ B-DEST
 3000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ลำปาง B-DEST
 4300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+4 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 แม่สอด B-DEST
 2900 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+11 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 สุโขทัย B-DEST
 1000 B-PRICE
-ตี B-TIME
-2 I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 พิษณุโลก B-DEST
 2600 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 อุดรธานี B-DEST
 1400 B-PRICE
-ตี B-TIME
-4 I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 นครพนม B-DEST
 1400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ขอนเเก่น B-DEST
 4400 B-PRICE
 ตี B-TIME
-2 I-TIME
+4 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ร้อยเอ็ด B-DEST
 4300 B-PRICE
-ตี B-TIME
-3 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 อุบลราชธานี B-DEST
 2400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 สุรินทร์ B-DEST
 4900 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+3 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ระนอง B-DEST
 3500 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+4 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 สุราษฎร์ธานี B-DEST
 1000 B-PRICE
-ตี B-TIME
-4 I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 สมุย B-DEST
 2500 B-PRICE
 ตี B-TIME
-1 I-TIME
+5 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 นครศรีธรรมราช B-DEST
 1300 B-PRICE
-ตี B-TIME
-5 I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ภูเก็ต B-DEST
 4900 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 กระบี่ B-DEST
 1600 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
+7 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 ตรัง B-DEST
 4000 B-PRICE
-ตี B-TIME
-3 I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 หาดใหญ่ B-DEST
 3700 B-PRICE
-1 B-TIME
+2 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 DMK B-START
 - O
 นราธิวาส B-DEST
 2600 B-PRICE
-8 B-TIME
+3 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 เชียงใหม่ B-DEST
 600 B-PRICE
-11 B-TIME
+9 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 เชียงใหม่ B-DEST
 1400 B-PRICE
 1 B-TIME
-ทุ่ม I-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 BKK B-DEST
 3800 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
+5 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 BKK B-DEST
 2000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 DMK B-DEST
 3100 B-PRICE
-7 B-TIME
+11 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 DMK B-DEST
 1600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 CEI B-DEST
 5000 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 เชียงราย B-DEST
 3300 B-PRICE
-ตี B-TIME
-2 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 แม่ฮ่องสอน B-DEST
 700 B-PRICE
-ตี B-TIME
-3 I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 แม่ฮ่องสอน B-DEST
 2700 B-PRICE
-ตี B-TIME
-1 I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 น่าน B-DEST
 1300 B-PRICE
 2 B-TIME
-โมงเช้า I-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 NNT B-DEST
 3400 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 น่าน B-DEST
 3500 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 NNT B-DEST
 1400 B-PRICE
-ตี B-TIME
-2 I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 แพร่ B-DEST
 1400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 แพร่ B-DEST
 3100 B-PRICE
-ตี B-TIME
-5 I-TIME
+9 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ลำปาง B-DEST
 3700 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ลำปาง B-DEST
 4800 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+9 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 แม่สอด B-DEST
 500 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 แม่สอด B-DEST
 4400 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 สุโขทัย B-DEST
 4800 B-PRICE
-4 B-TIME
+9 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 สุโขทัย B-DEST
 4300 B-PRICE
 ตี B-TIME
-1 I-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 พิษณุโลก B-DEST
 3500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+7 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 พิษณุโลก B-DEST
 3900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+4 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 อุดรธานี B-DEST
 3000 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+9 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 อุดรธานี B-DEST
 3200 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 นครพนม B-DEST
 500 B-PRICE
-ตี B-TIME
-2 I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 นครพนม B-DEST
 1400 B-PRICE
-7 B-TIME
+4 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ขอนเเก่น B-DEST
 2000 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ขอนเเก่น B-DEST
 600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+2 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ร้อยเอ็ด B-DEST
 3900 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+6 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ร้อยเอ็ด B-DEST
 5000 B-PRICE
-4 B-TIME
+3 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 อุบลราชธานี B-DEST
 4100 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 อุบลราชธานี B-DEST
 1000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+4 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 สุรินทร์ B-DEST
 3000 B-PRICE
-1 B-TIME
+8 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 สุรินทร์ B-DEST
 4400 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+1 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ระนอง B-DEST
 500 B-PRICE
 ตี B-TIME
-5 I-TIME
+2 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ระนอง B-DEST
 4200 B-PRICE
-ตี B-TIME
-1 I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 สุราษฎร์ธานี B-DEST
 1000 B-PRICE
-ตี B-TIME
-1 I-TIME
+2 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 สุราษฎร์ธานี B-DEST
 1600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+5 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 สมุย B-DEST
 4000 B-PRICE
-ตี B-TIME
-3 I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 สมุย B-DEST
 3600 B-PRICE
 ตี B-TIME
-4 I-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 นครศรีธรรมราช B-DEST
 500 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 นครศรีธรรมราช B-DEST
 4800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+2 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ภูเก็ต B-DEST
 900 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+4 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ภูเก็ต B-DEST
@@ -888,34 +1014,39 @@ CEI B-START
 5 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 กระบี่ B-DEST
 600 B-PRICE
-ตี B-TIME
-5 I-TIME
+7 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 กระบี่ B-DEST
 1800 B-PRICE
 ตี B-TIME
-2 I-TIME
+1 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 ตรัง B-DEST
 2000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 ตรัง B-DEST
 4100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 หาดใหญ่ B-DEST
@@ -923,83 +1054,95 @@ CEI B-START
 3 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 หาดใหญ่ B-DEST
 2300 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 เชียงราย B-START
 - O
 นราธิวาส B-DEST
 3400 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+3 I-TIME
 
+ตั๋ว O
 CEI B-START
 - O
 นราธิวาส B-DEST
 4300 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+11 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 เชียงใหม่ B-DEST
 3500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+4 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 BKK B-DEST
 3600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 DMK B-DEST
 4100 B-PRICE
 ตี B-TIME
-1 I-TIME
+5 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 เชียงราย B-DEST
 2200 B-PRICE
-6 B-TIME
+1 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 CEI B-DEST
 900 B-PRICE
-2 B-TIME
+5 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 น่าน B-DEST
 3200 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 NNT B-DEST
 2700 B-PRICE
-1 B-TIME
+2 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 แพร่ B-DEST
 3600 B-PRICE
-10 B-TIME
+4 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ลำปาง B-DEST
@@ -1007,13 +1150,15 @@ NNT B-DEST
 ตี B-TIME
 1 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 แม่สอด B-DEST
 3600 B-PRICE
-10 B-TIME
+7 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 สุโขทัย B-DEST
@@ -1021,4084 +1166,4667 @@ NNT B-DEST
 2 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 พิษณุโลก B-DEST
 3600 B-PRICE
-8 B-TIME
+10 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 อุดรธานี B-DEST
 4500 B-PRICE
 2 B-TIME
-ทุ่ม I-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 นครพนม B-DEST
 4700 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+2 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ขอนเเก่น B-DEST
 2600 B-PRICE
-ตี B-TIME
-2 I-TIME
+5 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ร้อยเอ็ด B-DEST
 1700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 อุบลราชธานี B-DEST
 2500 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 สุรินทร์ B-DEST
 900 B-PRICE
-4 B-TIME
+9 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ระนอง B-DEST
 1300 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 สุราษฎร์ธานี B-DEST
 2300 B-PRICE
-ตี B-TIME
-5 I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 สมุย B-DEST
 2100 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+3 I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 นครศรีธรรมราช B-DEST
 700 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
+6 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ภูเก็ต B-DEST
 2400 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+2 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 กระบี่ B-DEST
 2600 B-PRICE
-ตี B-TIME
-2 I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 ตรัง B-DEST
 1700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+4 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 หาดใหญ่ B-DEST
 4100 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 แม่ฮ่องสอน B-START
 - O
 นราธิวาส B-DEST
 900 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+3 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 เชียงใหม่ B-DEST
 2700 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 เชียงใหม่ B-DEST
 4300 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+2 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 BKK B-DEST
 1200 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
+8 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 BKK B-DEST
 3000 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+3 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 DMK B-DEST
 4200 B-PRICE
 ตี B-TIME
-4 I-TIME
+5 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 DMK B-DEST
 700 B-PRICE
-3 B-TIME
+9 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 เชียงราย B-DEST
 4700 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 CEI B-DEST
 5000 B-PRICE
 บ่าย B-TIME
-3 I-TIME
+2 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 เชียงราย B-DEST
 1900 B-PRICE
-บ่าย B-TIME
-1 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 CEI B-DEST
 1300 B-PRICE
-ตี B-TIME
-5 I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 แม่ฮ่องสอน B-DEST
 1700 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+1 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 แม่ฮ่องสอน B-DEST
 1700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+บ่าย B-TIME
+2 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 NNT B-DEST
 1400 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 น่าน B-DEST
 2000 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
+ตี B-TIME
+5 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 แพร่ B-DEST
 4300 B-PRICE
-7 B-TIME
+1 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 แพร่ B-DEST
 3200 B-PRICE
-7 B-TIME
+4 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 ลำปาง B-DEST
 600 B-PRICE
-7 B-TIME
+1 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 ลำปาง B-DEST
 1000 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+1 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 แม่สอด B-DEST
 3500 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+ตี B-TIME
+1 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 แม่สอด B-DEST
 1800 B-PRICE
 บ่าย B-TIME
-2 I-TIME
+3 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 สุโขทัย B-DEST
 1900 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 สุโขทัย B-DEST
 1100 B-PRICE
-3 B-TIME
+5 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 พิษณุโลก B-DEST
 4000 B-PRICE
 บ่าย B-TIME
-3 I-TIME
+2 I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 พิษณุโลก B-DEST
 3900 B-PRICE
 บ่าย B-TIME
-3 I-TIME
+2 I-TIME
 
+ตั๋ว O
 น่าน B-START
 - O
 อุดรธานี B-DEST
 600 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+1 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 NNT B-START
 - O
 อุดรธานี B-DEST
 700 B-PRICE
-7 B-TIME
+2 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 น่าน B-START
-- O
-นครพนม B-DEST
-2800 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-NNT B-START
-- O
-นครพนม B-DEST
-4000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-น่าน B-START
-- O
-ขอนเเก่น B-DEST
-600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-NNT B-START
-- O
-ขอนเเก่น B-DEST
-4700 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-น่าน B-START
-- O
-ร้อยเอ็ด B-DEST
-1900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-NNT B-START
-- O
-ร้อยเอ็ด B-DEST
-4100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-น่าน B-START
-- O
-อุบลราชธานี B-DEST
-2400 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-NNT B-START
-- O
-อุบลราชธานี B-DEST
-4600 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-น่าน B-START
-- O
-สุรินทร์ B-DEST
-500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-NNT B-START
-- O
-สุรินทร์ B-DEST
-4000 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-น่าน B-START
-- O
-ระนอง B-DEST
-4000 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-NNT B-START
-- O
-ระนอง B-DEST
-1000 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-น่าน B-START
-- O
-สุราษฎร์ธานี B-DEST
-2300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-NNT B-START
-- O
-สุราษฎร์ธานี B-DEST
-3800 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-น่าน B-START
-- O
-สมุย B-DEST
-3400 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-NNT B-START
-- O
-สมุย B-DEST
-2700 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-น่าน B-START
-- O
-นครศรีธรรมราช B-DEST
-1900 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-NNT B-START
-- O
-นครศรีธรรมราช B-DEST
-1200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-น่าน B-START
-- O
-ภูเก็ต B-DEST
-2400 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-NNT B-START
-- O
-ภูเก็ต B-DEST
-900 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-น่าน B-START
-- O
-กระบี่ B-DEST
-3100 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-NNT B-START
-- O
-กระบี่ B-DEST
-3800 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-น่าน B-START
-- O
-ตรัง B-DEST
-3800 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-NNT B-START
-- O
-ตรัง B-DEST
-3600 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-น่าน B-START
-- O
-หาดใหญ่ B-DEST
-3800 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-NNT B-START
-- O
-หาดใหญ่ B-DEST
-1500 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-น่าน B-START
-- O
-นราธิวาส B-DEST
-4900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-NNT B-START
-- O
-นราธิวาส B-DEST
-3500 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-เชียงใหม่ B-DEST
-1800 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-แพร่ B-START
-- O
-BKK B-DEST
-5000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-แพร่ B-START
-- O
-DMK B-DEST
-500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-เชียงราย B-DEST
-3600 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-แพร่ B-START
-- O
-CEI B-DEST
-2700 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-แม่ฮ่องสอน B-DEST
-3000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-แพร่ B-START
-- O
-น่าน B-DEST
-1600 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-แพร่ B-START
-- O
-NNT B-DEST
-3500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-แพร่ B-START
-- O
-ลำปาง B-DEST
-2300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-แม่สอด B-DEST
-3700 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-แพร่ B-START
-- O
-สุโขทัย B-DEST
-4600 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-แพร่ B-START
-- O
-พิษณุโลก B-DEST
-3800 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-อุดรธานี B-DEST
-4700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-แพร่ B-START
-- O
-นครพนม B-DEST
-3400 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-ขอนเเก่น B-DEST
-4300 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-แพร่ B-START
-- O
-ร้อยเอ็ด B-DEST
-2300 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-อุบลราชธานี B-DEST
-2200 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แพร่ B-START
-- O
-สุรินทร์ B-DEST
-4300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แพร่ B-START
-- O
-ระนอง B-DEST
-1000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-แพร่ B-START
-- O
-สุราษฎร์ธานี B-DEST
-4200 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-สมุย B-DEST
-1500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-แพร่ B-START
-- O
-นครศรีธรรมราช B-DEST
-4300 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-แพร่ B-START
-- O
-ภูเก็ต B-DEST
-3700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-แพร่ B-START
-- O
-กระบี่ B-DEST
-1600 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-แพร่ B-START
-- O
-ตรัง B-DEST
-1400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แพร่ B-START
-- O
-หาดใหญ่ B-DEST
-1400 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-แพร่ B-START
-- O
-นราธิวาส B-DEST
-4200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ลำปาง B-START
-- O
-เชียงใหม่ B-DEST
-4500 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ลำปาง B-START
-- O
-BKK B-DEST
-1700 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-DMK B-DEST
-3800 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-เชียงราย B-DEST
-3100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-CEI B-DEST
-2200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ลำปาง B-START
-- O
-แม่ฮ่องสอน B-DEST
-1000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-น่าน B-DEST
-2600 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ลำปาง B-START
-- O
-NNT B-DEST
-2300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ลำปาง B-START
-- O
-แพร่ B-DEST
-1100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-แม่สอด B-DEST
-3000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-สุโขทัย B-DEST
-700 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-พิษณุโลก B-DEST
-600 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-อุดรธานี B-DEST
-3900 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-ลำปาง B-START
-- O
-นครพนม B-DEST
-5000 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-ขอนเเก่น B-DEST
-2500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-ร้อยเอ็ด B-DEST
-4900 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ลำปาง B-START
-- O
-อุบลราชธานี B-DEST
-1200 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ลำปาง B-START
-- O
-สุรินทร์ B-DEST
-2500 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-ระนอง B-DEST
-2200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ลำปาง B-START
-- O
-สุราษฎร์ธานี B-DEST
-4600 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-ลำปาง B-START
-- O
-สมุย B-DEST
-1700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-นครศรีธรรมราช B-DEST
-2500 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ลำปาง B-START
-- O
-ภูเก็ต B-DEST
-1700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ลำปาง B-START
-- O
-กระบี่ B-DEST
-1700 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ลำปาง B-START
-- O
-ตรัง B-DEST
-1900 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ลำปาง B-START
-- O
-หาดใหญ่ B-DEST
-1300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ลำปาง B-START
-- O
-นราธิวาส B-DEST
-2500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-แม่สอด B-START
-- O
-เชียงใหม่ B-DEST
-3300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-BKK B-DEST
-2600 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-DMK B-DEST
-1500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-แม่สอด B-START
-- O
-เชียงราย B-DEST
-4200 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-CEI B-DEST
-2900 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-แม่สอด B-START
-- O
-แม่ฮ่องสอน B-DEST
-4500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-แม่สอด B-START
-- O
-น่าน B-DEST
-3400 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-NNT B-DEST
-3300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แม่สอด B-START
-- O
-แพร่ B-DEST
-2300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แม่สอด B-START
-- O
-ลำปาง B-DEST
-1700 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-สุโขทัย B-DEST
-3900 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-แม่สอด B-START
-- O
-พิษณุโลก B-DEST
-3100 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-อุดรธานี B-DEST
-4800 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-นครพนม B-DEST
-600 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-แม่สอด B-START
-- O
-ขอนเเก่น B-DEST
-5000 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-แม่สอด B-START
-- O
-ร้อยเอ็ด B-DEST
-1900 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-แม่สอด B-START
-- O
-อุบลราชธานี B-DEST
-2200 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-สุรินทร์ B-DEST
-4900 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-ระนอง B-DEST
-3100 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-สุราษฎร์ธานี B-DEST
-2400 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-แม่สอด B-START
-- O
-สมุย B-DEST
-700 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-แม่สอด B-START
-- O
-นครศรีธรรมราช B-DEST
-3600 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-แม่สอด B-START
-- O
-ภูเก็ต B-DEST
-2900 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-กระบี่ B-DEST
-3900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-แม่สอด B-START
-- O
-ตรัง B-DEST
-2100 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-หาดใหญ่ B-DEST
-3500 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-แม่สอด B-START
-- O
-นราธิวาส B-DEST
-4200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุโขทัย B-START
-- O
-เชียงใหม่ B-DEST
-3100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-BKK B-DEST
-600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-DMK B-DEST
-3200 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-เชียงราย B-DEST
-1300 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุโขทัย B-START
-- O
-CEI B-DEST
-1300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุโขทัย B-START
-- O
-แม่ฮ่องสอน B-DEST
-4400 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุโขทัย B-START
-- O
-น่าน B-DEST
-3800 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุโขทัย B-START
-- O
-NNT B-DEST
-1000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สุโขทัย B-START
-- O
-แพร่ B-DEST
-2600 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุโขทัย B-START
-- O
-ลำปาง B-DEST
-1500 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สุโขทัย B-START
-- O
-แม่สอด B-DEST
-4100 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-พิษณุโลก B-DEST
-1900 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-สุโขทัย B-START
-- O
-อุดรธานี B-DEST
-2700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุโขทัย B-START
-- O
-นครพนม B-DEST
-3500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุโขทัย B-START
-- O
-ขอนเเก่น B-DEST
-1200 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-ร้อยเอ็ด B-DEST
-700 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-อุบลราชธานี B-DEST
-2700 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-สุรินทร์ B-DEST
-3400 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุโขทัย B-START
-- O
-ระนอง B-DEST
-1300 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-สุราษฎร์ธานี B-DEST
-1500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุโขทัย B-START
-- O
-สมุย B-DEST
-1300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุโขทัย B-START
-- O
-นครศรีธรรมราช B-DEST
-2700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สุโขทัย B-START
-- O
-ภูเก็ต B-DEST
-3100 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-กระบี่ B-DEST
-4400 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สุโขทัย B-START
-- O
-ตรัง B-DEST
-2100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-หาดใหญ่ B-DEST
-4800 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-สุโขทัย B-START
-- O
-นราธิวาส B-DEST
-2800 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-พิษณุโลก B-START
-- O
-เชียงใหม่ B-DEST
-2400 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-BKK B-DEST
-1300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-พิษณุโลก B-START
-- O
-DMK B-DEST
-3300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-พิษณุโลก B-START
-- O
-เชียงราย B-DEST
-4500 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-พิษณุโลก B-START
-- O
-CEI B-DEST
-3100 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-แม่ฮ่องสอน B-DEST
-700 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-น่าน B-DEST
-1000 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-NNT B-DEST
-1500 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-แพร่ B-DEST
-2100 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-ลำปาง B-DEST
-3900 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-แม่สอด B-DEST
-3100 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-สุโขทัย B-DEST
-2000 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-อุดรธานี B-DEST
-2200 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-พิษณุโลก B-START
-- O
-นครพนม B-DEST
-3600 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-ขอนเเก่น B-DEST
-3600 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-ร้อยเอ็ด B-DEST
-4300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-อุบลราชธานี B-DEST
-1000 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-สุรินทร์ B-DEST
-3200 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-ระนอง B-DEST
-3600 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-สุราษฎร์ธานี B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-สมุย B-DEST
-2000 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-นครศรีธรรมราช B-DEST
-2300 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-ภูเก็ต B-DEST
-1300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-พิษณุโลก B-START
-- O
-กระบี่ B-DEST
-4700 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-ตรัง B-DEST
-3500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-พิษณุโลก B-START
-- O
-หาดใหญ่ B-DEST
-800 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-พิษณุโลก B-START
-- O
-นราธิวาส B-DEST
-3300 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-เชียงใหม่ B-DEST
-1400 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-BKK B-DEST
-1300 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-DMK B-DEST
-2100 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-เชียงราย B-DEST
-900 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-CEI B-DEST
-3200 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-แม่ฮ่องสอน B-DEST
-3200 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-น่าน B-DEST
-3400 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-NNT B-DEST
-2400 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-แพร่ B-DEST
-2900 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-ลำปาง B-DEST
-5000 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-แม่สอด B-DEST
-4000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-อุดรธานี B-START
-- O
-สุโขทัย B-DEST
-4700 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-อุดรธานี B-START
-- O
-พิษณุโลก B-DEST
-4800 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-นครพนม B-DEST
-700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-ขอนเเก่น B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-ร้อยเอ็ด B-DEST
-2700 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-อุบลราชธานี B-DEST
-5000 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-สุรินทร์ B-DEST
-2900 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-ระนอง B-DEST
-3300 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-สุราษฎร์ธานี B-DEST
-3700 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-สมุย B-DEST
-4200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุดรธานี B-START
-- O
-นครศรีธรรมราช B-DEST
-3400 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-อุดรธานี B-START
-- O
-ภูเก็ต B-DEST
-3600 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-อุดรธานี B-START
-- O
-กระบี่ B-DEST
-4500 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-อุดรธานี B-START
-- O
-ตรัง B-DEST
-2700 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-อุดรธานี B-START
-- O
-หาดใหญ่ B-DEST
-700 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-อุดรธานี B-START
-- O
-นราธิวาส B-DEST
-4100 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-นครพนม B-START
-- O
-เชียงใหม่ B-DEST
-3600 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-BKK B-DEST
-4500 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-นครพนม B-START
-- O
-DMK B-DEST
-2200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-เชียงราย B-DEST
-4500 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-CEI B-DEST
-1800 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-แม่ฮ่องสอน B-DEST
-1400 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-นครพนม B-START
-- O
-น่าน B-DEST
-3700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-นครพนม B-START
-- O
-NNT B-DEST
-3100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-แพร่ B-DEST
-900 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-ลำปาง B-DEST
-4900 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-แม่สอด B-DEST
-3800 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-นครพนม B-START
-- O
-สุโขทัย B-DEST
-3600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-พิษณุโลก B-DEST
-1300 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-อุดรธานี B-DEST
-1000 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-ขอนเเก่น B-DEST
-2400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-ร้อยเอ็ด B-DEST
-2200 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-อุบลราชธานี B-DEST
-5000 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-สุรินทร์ B-DEST
-3800 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-ระนอง B-DEST
-4500 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-สุราษฎร์ธานี B-DEST
-4500 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-นครพนม B-START
-- O
-สมุย B-DEST
-4500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-นครศรีธรรมราช B-DEST
-2900 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-ภูเก็ต B-DEST
-2200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-กระบี่ B-DEST
-2900 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-นครพนม B-START
-- O
-ตรัง B-DEST
-2100 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-นครพนม B-START
-- O
-หาดใหญ่ B-DEST
-3700 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครพนม B-START
-- O
-นราธิวาส B-DEST
-500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ขอนเเก่น B-START
-- O
-เชียงใหม่ B-DEST
-4700 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ขอนเเก่น B-START
-- O
-BKK B-DEST
-2300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ขอนเเก่น B-START
-- O
-DMK B-DEST
-500 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-เชียงราย B-DEST
-3100 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-CEI B-DEST
-700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ขอนเเก่น B-START
-- O
-แม่ฮ่องสอน B-DEST
-3500 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ขอนเเก่น B-START
-- O
-น่าน B-DEST
-800 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-NNT B-DEST
-2500 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-แพร่ B-DEST
-3000 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-ลำปาง B-DEST
-1400 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-แม่สอด B-DEST
-1700 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-ขอนเเก่น B-START
-- O
-สุโขทัย B-DEST
-2600 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-ขอนเเก่น B-START
-- O
-พิษณุโลก B-DEST
-2100 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ขอนเเก่น B-START
-- O
-อุดรธานี B-DEST
-900 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ขอนเเก่น B-START
-- O
-นครพนม B-DEST
-3700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-ร้อยเอ็ด B-DEST
-600 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-อุบลราชธานี B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-สุรินทร์ B-DEST
-4600 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-ระนอง B-DEST
-3600 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ขอนเเก่น B-START
-- O
-สุราษฎร์ธานี B-DEST
-3900 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-สมุย B-DEST
-1500 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-ขอนเเก่น B-START
-- O
-นครศรีธรรมราช B-DEST
-3100 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-ภูเก็ต B-DEST
-3000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ขอนเเก่น B-START
-- O
-กระบี่ B-DEST
-1900 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-ตรัง B-DEST
-1900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ขอนเเก่น B-START
-- O
-หาดใหญ่ B-DEST
-2000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ขอนเเก่น B-START
-- O
-นราธิวาส B-DEST
-3400 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-เชียงใหม่ B-DEST
-1800 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-BKK B-DEST
-2300 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-DMK B-DEST
-800 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-เชียงราย B-DEST
-4300 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-CEI B-DEST
-3800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-แม่ฮ่องสอน B-DEST
-5000 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-น่าน B-DEST
-1400 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-NNT B-DEST
-2100 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-แพร่ B-DEST
-1200 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-ลำปาง B-DEST
-3800 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-แม่สอด B-DEST
-2100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-สุโขทัย B-DEST
-2800 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-พิษณุโลก B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-อุดรธานี B-DEST
-4300 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-นครพนม B-DEST
-800 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-ขอนเเก่น B-DEST
-4100 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-อุบลราชธานี B-DEST
-3800 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-สุรินทร์ B-DEST
-600 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-ระนอง B-DEST
-900 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-สุราษฎร์ธานี B-DEST
-1300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-สมุย B-DEST
-1600 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-นครศรีธรรมราช B-DEST
-1000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-ภูเก็ต B-DEST
-3300 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-กระบี่ B-DEST
-3800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ร้อยเอ็ด B-START
-- O
-ตรัง B-DEST
-1100 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ร้อยเอ็ด B-START
-- O
-หาดใหญ่ B-DEST
-4000 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ร้อยเอ็ด B-START
-- O
-นราธิวาส B-DEST
-4700 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-อุบลราชธานี B-START
-- O
-เชียงใหม่ B-DEST
-2600 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-BKK B-DEST
-4800 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-อุบลราชธานี B-START
-- O
-DMK B-DEST
-4100 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-เชียงราย B-DEST
-3400 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-CEI B-DEST
-3300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-แม่ฮ่องสอน B-DEST
-500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-อุบลราชธานี B-START
-- O
-น่าน B-DEST
-1900 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-NNT B-DEST
-3100 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-อุบลราชธานี B-START
-- O
-แพร่ B-DEST
-1400 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-ลำปาง B-DEST
-5000 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-แม่สอด B-DEST
-2400 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-สุโขทัย B-DEST
-1400 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-พิษณุโลก B-DEST
-3400 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-อุบลราชธานี B-START
-- O
-อุดรธานี B-DEST
-3600 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-อุบลราชธานี B-START
-- O
-นครพนม B-DEST
-3900 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-ขอนเเก่น B-DEST
-1900 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-อุบลราชธานี B-START
-- O
-ร้อยเอ็ด B-DEST
-1900 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-อุบลราชธานี B-START
-- O
-สุรินทร์ B-DEST
-3700 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-ระนอง B-DEST
-1300 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-อุบลราชธานี B-START
-- O
-สุราษฎร์ธานี B-DEST
-3500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-อุบลราชธานี B-START
-- O
-สมุย B-DEST
-4000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-อุบลราชธานี B-START
-- O
-นครศรีธรรมราช B-DEST
-3100 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-ภูเก็ต B-DEST
-4900 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-อุบลราชธานี B-START
-- O
-กระบี่ B-DEST
-3300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-อุบลราชธานี B-START
-- O
-ตรัง B-DEST
-1000 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-อุบลราชธานี B-START
-- O
-หาดใหญ่ B-DEST
-700 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-อุบลราชธานี B-START
-- O
-นราธิวาส B-DEST
-4500 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-เชียงใหม่ B-DEST
-1100 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สุรินทร์ B-START
-- O
-BKK B-DEST
-3000 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-DMK B-DEST
-3900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุรินทร์ B-START
-- O
-เชียงราย B-DEST
-4100 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-CEI B-DEST
-500 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สุรินทร์ B-START
-- O
-แม่ฮ่องสอน B-DEST
-3100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-น่าน B-DEST
-5000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุรินทร์ B-START
-- O
-NNT B-DEST
-3500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุรินทร์ B-START
-- O
-แพร่ B-DEST
-2100 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-ลำปาง B-DEST
-3300 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-สุรินทร์ B-START
-- O
-แม่สอด B-DEST
-3600 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สุรินทร์ B-START
-- O
-สุโขทัย B-DEST
-3900 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-พิษณุโลก B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-อุดรธานี B-DEST
-3100 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-นครพนม B-DEST
-1500 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-สุรินทร์ B-START
-- O
-ขอนเเก่น B-DEST
-800 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุรินทร์ B-START
-- O
-ร้อยเอ็ด B-DEST
-2900 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุรินทร์ B-START
-- O
-อุบลราชธานี B-DEST
-4700 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สุรินทร์ B-START
-- O
-ระนอง B-DEST
-5000 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-สุราษฎร์ธานี B-DEST
-500 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-สุรินทร์ B-START
-- O
-สมุย B-DEST
-2700 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-นครศรีธรรมราช B-DEST
-3000 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-สุรินทร์ B-START
-- O
-ภูเก็ต B-DEST
-600 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-กระบี่ B-DEST
-3200 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุรินทร์ B-START
-- O
-ตรัง B-DEST
-2500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุรินทร์ B-START
-- O
-หาดใหญ่ B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สุรินทร์ B-START
-- O
-นราธิวาส B-DEST
-2500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ระนอง B-START
-- O
-เชียงใหม่ B-DEST
-1500 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-BKK B-DEST
-2300 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-DMK B-DEST
-4400 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-เชียงราย B-DEST
-2900 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ระนอง B-START
-- O
-CEI B-DEST
-3900 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-แม่ฮ่องสอน B-DEST
-3600 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-น่าน B-DEST
-1900 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-NNT B-DEST
-3600 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-แพร่ B-DEST
-2300 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ระนอง B-START
-- O
-ลำปาง B-DEST
-1800 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-แม่สอด B-DEST
-4400 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-สุโขทัย B-DEST
-5000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-พิษณุโลก B-DEST
-3900 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-อุดรธานี B-DEST
-4000 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ระนอง B-START
-- O
-นครพนม B-DEST
-4800 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ระนอง B-START
-- O
-ขอนเเก่น B-DEST
-2600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ระนอง B-START
-- O
-ร้อยเอ็ด B-DEST
-4400 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-ระนอง B-START
-- O
-อุบลราชธานี B-DEST
-3800 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-สุรินทร์ B-DEST
-2300 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ระนอง B-START
-- O
-สุราษฎร์ธานี B-DEST
-4200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ระนอง B-START
-- O
-สมุย B-DEST
-3400 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-นครศรีธรรมราช B-DEST
-2500 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-ภูเก็ต B-DEST
-3800 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-ระนอง B-START
-- O
-กระบี่ B-DEST
-2600 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ระนอง B-START
-- O
-ตรัง B-DEST
-3200 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-ระนอง B-START
-- O
-หาดใหญ่ B-DEST
-800 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ระนอง B-START
-- O
-นราธิวาส B-DEST
-900 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-เชียงใหม่ B-DEST
-3000 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-BKK B-DEST
-4500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-DMK B-DEST
-4100 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-เชียงราย B-DEST
-3500 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-CEI B-DEST
-2700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-แม่ฮ่องสอน B-DEST
-2400 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-น่าน B-DEST
-1700 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-NNT B-DEST
-4600 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-แพร่ B-DEST
-900 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ลำปาง B-DEST
-3100 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-แม่สอด B-DEST
-3600 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-สุโขทัย B-DEST
-1500 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-พิษณุโลก B-DEST
-700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-อุดรธานี B-DEST
-4700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-นครพนม B-DEST
-4300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ขอนเเก่น B-DEST
-900 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ร้อยเอ็ด B-DEST
-1000 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-อุบลราชธานี B-DEST
-1200 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-สุรินทร์ B-DEST
-2800 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ระนอง B-DEST
-900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-สมุย B-DEST
-4100 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-นครศรีธรรมราช B-DEST
-3500 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ภูเก็ต B-DEST
-500 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-กระบี่ B-DEST
-4300 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-ตรัง B-DEST
-5000 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-หาดใหญ่ B-DEST
-900 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-สุราษฎร์ธานี B-START
-- O
-นราธิวาส B-DEST
-3600 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-เชียงใหม่ B-DEST
-4800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-สมุย B-START
-- O
-BKK B-DEST
-3500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สมุย B-START
-- O
-DMK B-DEST
-2600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-เชียงราย B-DEST
-2000 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-CEI B-DEST
-1200 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-สมุย B-START
-- O
-แม่ฮ่องสอน B-DEST
-1300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-น่าน B-DEST
-700 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-สมุย B-START
-- O
-NNT B-DEST
-3700 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-สมุย B-START
-- O
-แพร่ B-DEST
-2600 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-ลำปาง B-DEST
-500 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-แม่สอด B-DEST
-4100 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-สมุย B-START
-- O
-สุโขทัย B-DEST
-4900 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-พิษณุโลก B-DEST
-3400 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-อุดรธานี B-DEST
-4600 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-สมุย B-START
-- O
-นครพนม B-DEST
-4600 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-ขอนเเก่น B-DEST
-1800 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-ร้อยเอ็ด B-DEST
-4300 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-สมุย B-START
-- O
-อุบลราชธานี B-DEST
-4100 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-สุรินทร์ B-DEST
-3300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-ระนอง B-DEST
-2200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-สมุย B-START
-- O
-สุราษฎร์ธานี B-DEST
-2100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-สมุย B-START
-- O
-นครศรีธรรมราช B-DEST
-500 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-สมุย B-START
-- O
-ภูเก็ต B-DEST
-1000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-กระบี่ B-DEST
-3100 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-สมุย B-START
-- O
-ตรัง B-DEST
-800 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-หาดใหญ่ B-DEST
-1100 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-สมุย B-START
-- O
-นราธิวาส B-DEST
-3300 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-เชียงใหม่ B-DEST
-4000 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-BKK B-DEST
-5000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-DMK B-DEST
-1400 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-เชียงราย B-DEST
-1100 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-CEI B-DEST
-800 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-แม่ฮ่องสอน B-DEST
-2300 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-น่าน B-DEST
-2900 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-NNT B-DEST
-1700 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-แพร่ B-DEST
-4100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ลำปาง B-DEST
-3000 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-แม่สอด B-DEST
-600 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-สุโขทัย B-DEST
-1900 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-พิษณุโลก B-DEST
-4300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-อุดรธานี B-DEST
-1700 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-นครพนม B-DEST
-3800 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ขอนเเก่น B-DEST
-2400 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ร้อยเอ็ด B-DEST
-800 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-อุบลราชธานี B-DEST
-1500 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-สุรินทร์ B-DEST
-1100 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ระนอง B-DEST
-2600 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-สุราษฎร์ธานี B-DEST
-3600 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-สมุย B-DEST
-1700 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ภูเก็ต B-DEST
-3800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-นครศรีธรรมราช B-START
-- O
-กระบี่ B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-ตรัง B-DEST
-3400 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
-
-นครศรีธรรมราช B-START
-- O
-หาดใหญ่ B-DEST
-3200 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-นครศรีธรรมราช B-START
-- O
-นราธิวาส B-DEST
-4400 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ภูเก็ต B-START
-- O
-เชียงใหม่ B-DEST
-2500 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-BKK B-DEST
-1900 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-DMK B-DEST
-4100 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-เชียงราย B-DEST
-2300 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ภูเก็ต B-START
-- O
-CEI B-DEST
-1800 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-แม่ฮ่องสอน B-DEST
-1400 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-ภูเก็ต B-START
-- O
-น่าน B-DEST
-2700 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ภูเก็ต B-START
-- O
-NNT B-DEST
-1200 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-แพร่ B-DEST
-1400 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ภูเก็ต B-START
-- O
-ลำปาง B-DEST
-2500 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-แม่สอด B-DEST
-5000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-สุโขทัย B-DEST
-3900 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-ภูเก็ต B-START
-- O
-พิษณุโลก B-DEST
-3600 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-อุดรธานี B-DEST
-4400 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-นครพนม B-DEST
-1500 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ภูเก็ต B-START
-- O
-ขอนเเก่น B-DEST
-4000 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-ร้อยเอ็ด B-DEST
-3300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ภูเก็ต B-START
-- O
-อุบลราชธานี B-DEST
-4200 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ภูเก็ต B-START
-- O
-สุรินทร์ B-DEST
-700 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-ระนอง B-DEST
-4300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ภูเก็ต B-START
-- O
-สุราษฎร์ธานี B-DEST
-1500 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-สมุย B-DEST
-2600 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ภูเก็ต B-START
-- O
-นครศรีธรรมราช B-DEST
-1800 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-กระบี่ B-DEST
-2300 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-ตรัง B-DEST
-2700 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-ภูเก็ต B-START
-- O
-หาดใหญ่ B-DEST
-500 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ภูเก็ต B-START
-- O
-นราธิวาส B-DEST
-2000 B-PRICE
-6 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-เชียงใหม่ B-DEST
-1700 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-BKK B-DEST
-3400 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-DMK B-DEST
-800 B-PRICE
-3 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-เชียงราย B-DEST
-2300 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-กระบี่ B-START
-- O
-CEI B-DEST
-4900 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-แม่ฮ่องสอน B-DEST
-3300 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-น่าน B-DEST
-3800 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-NNT B-DEST
-3500 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-แพร่ B-DEST
-4000 B-PRICE
-บ่าย B-TIME
-3 I-TIME
-
-กระบี่ B-START
-- O
-ลำปาง B-DEST
-3500 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-กระบี่ B-START
-- O
-แม่สอด B-DEST
-3700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-กระบี่ B-START
-- O
-สุโขทัย B-DEST
-1300 B-PRICE
-ตี B-TIME
-2 I-TIME
-
-กระบี่ B-START
-- O
-พิษณุโลก B-DEST
-1300 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-กระบี่ B-START
-- O
-อุดรธานี B-DEST
-1300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-นครพนม B-DEST
-600 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-กระบี่ B-START
-- O
-ขอนเเก่น B-DEST
-900 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-ร้อยเอ็ด B-DEST
-4200 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-อุบลราชธานี B-DEST
-4500 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-สุรินทร์ B-DEST
-1000 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-ระนอง B-DEST
-3400 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-สุราษฎร์ธานี B-DEST
-2800 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-กระบี่ B-START
-- O
-สมุย B-DEST
-3400 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-นครศรีธรรมราช B-DEST
-4800 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-กระบี่ B-START
-- O
-ภูเก็ต B-DEST
-3800 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-กระบี่ B-START
-- O
-ตรัง B-DEST
-4700 B-PRICE
-ตี B-TIME
-4 I-TIME
-
-กระบี่ B-START
-- O
-หาดใหญ่ B-DEST
-3000 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-กระบี่ B-START
-- O
-นราธิวาส B-DEST
-1300 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-เชียงใหม่ B-DEST
-3900 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-BKK B-DEST
-3300 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-DMK B-DEST
-3400 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ตรัง B-START
-- O
-เชียงราย B-DEST
-800 B-PRICE
-4 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-CEI B-DEST
-2100 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-แม่ฮ่องสอน B-DEST
-5000 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-น่าน B-DEST
-1100 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-NNT B-DEST
-2600 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ตรัง B-START
-- O
-แพร่ B-DEST
-3900 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-ตรัง B-START
-- O
-ลำปาง B-DEST
-1900 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ตรัง B-START
-- O
-แม่สอด B-DEST
-4100 B-PRICE
-5 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-สุโขทัย B-DEST
-4500 B-PRICE
-10 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-พิษณุโลก B-DEST
-1800 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-ตรัง B-START
-- O
-อุดรธานี B-DEST
-3200 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-ตรัง B-START
-- O
-นครพนม B-DEST
-1700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-ตรัง B-START
-- O
-ขอนเเก่น B-DEST
-2600 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-ตรัง B-START
-- O
-ร้อยเอ็ด B-DEST
-4500 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-อุบลราชธานี B-DEST
-1600 B-PRICE
-บ่าย B-TIME
-1 I-TIME
-
-ตรัง B-START
-- O
-สุรินทร์ B-DEST
-4900 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ตรัง B-START
-- O
-ระนอง B-DEST
-5000 B-PRICE
-11 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-สุราษฎร์ธานี B-DEST
-4000 B-PRICE
-ตี B-TIME
-1 I-TIME
-
-ตรัง B-START
-- O
-สมุย B-DEST
-700 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-ตรัง B-START
-- O
-นครศรีธรรมราช B-DEST
-2800 B-PRICE
-ตี B-TIME
-3 I-TIME
-
-ตรัง B-START
-- O
-ภูเก็ต B-DEST
-1200 B-PRICE
-9 B-TIME
-โมงเช้า I-TIME
-
-ตรัง B-START
-- O
-กระบี่ B-DEST
-4300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-ตรัง B-START
-- O
-หาดใหญ่ B-DEST
-2000 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-ตรัง B-START
-- O
-นราธิวาส B-DEST
-3200 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-หาดใหญ่ B-START
-- O
-เชียงใหม่ B-DEST
-1600 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-หาดใหญ่ B-START
-- O
-BKK B-DEST
-2200 B-PRICE
-1 B-TIME
-โมงเช้า I-TIME
-
-หาดใหญ่ B-START
-- O
-DMK B-DEST
-3700 B-PRICE
-บ่าย B-TIME
-2 I-TIME
-
-หาดใหญ่ B-START
-- O
-เชียงราย B-DEST
-700 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-CEI B-DEST
-4300 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-แม่ฮ่องสอน B-DEST
-3600 B-PRICE
-8 B-TIME
-โมงเช้า I-TIME
-
-หาดใหญ่ B-START
-- O
-น่าน B-DEST
-1000 B-PRICE
-ตี B-TIME
-5 I-TIME
-
-หาดใหญ่ B-START
-- O
-NNT B-DEST
-2600 B-PRICE
-1 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-แพร่ B-DEST
-4600 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-ลำปาง B-DEST
-3400 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
-
-หาดใหญ่ B-START
-- O
-แม่สอด B-DEST
-3700 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-สุโขทัย B-DEST
-3500 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-พิษณุโลก B-DEST
-800 B-PRICE
-5 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
-- O
-อุดรธานี B-DEST
-2800 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
-
-หาดใหญ่ B-START
 - O
 นครพนม B-DEST
 2800 B-PRICE
 10 B-TIME
 โมงเช้า I-TIME
 
-หาดใหญ่ B-START
+ตั๋ว O
+NNT B-START
+- O
+นครพนม B-DEST
+4000 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+น่าน B-START
 - O
 ขอนเเก่น B-DEST
+600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+ขอนเเก่น B-DEST
+4700 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+ร้อยเอ็ด B-DEST
+1900 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+ร้อยเอ็ด B-DEST
+4100 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+อุบลราชธานี B-DEST
+2400 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+อุบลราชธานี B-DEST
+4600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+สุรินทร์ B-DEST
+500 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+สุรินทร์ B-DEST
+4000 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+ระนอง B-DEST
+4000 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+ระนอง B-DEST
+1000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+สุราษฎร์ธานี B-DEST
+2300 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+สุราษฎร์ธานี B-DEST
+3800 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+สมุย B-DEST
+3400 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+สมุย B-DEST
+2700 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+นครศรีธรรมราช B-DEST
+1900 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+นครศรีธรรมราช B-DEST
+1200 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+ภูเก็ต B-DEST
+2400 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+ภูเก็ต B-DEST
+900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+กระบี่ B-DEST
+3100 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+กระบี่ B-DEST
+3800 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+ตรัง B-DEST
+3800 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+ตรัง B-DEST
+3600 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+หาดใหญ่ B-DEST
+3800 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+หาดใหญ่ B-DEST
+1500 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+น่าน B-START
+- O
+นราธิวาส B-DEST
+4900 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+NNT B-START
+- O
+นราธิวาส B-DEST
+3500 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+เชียงใหม่ B-DEST
+1800 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+BKK B-DEST
+5000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+DMK B-DEST
+500 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+เชียงราย B-DEST
+3600 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+CEI B-DEST
+2700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+แม่ฮ่องสอน B-DEST
+3000 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+น่าน B-DEST
+1600 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+NNT B-DEST
+3500 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ลำปาง B-DEST
+2300 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+แม่สอด B-DEST
+3700 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+สุโขทัย B-DEST
+4600 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+พิษณุโลก B-DEST
+3800 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+อุดรธานี B-DEST
+4700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+นครพนม B-DEST
+3400 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ขอนเเก่น B-DEST
+4300 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ร้อยเอ็ด B-DEST
+2300 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+อุบลราชธานี B-DEST
+2200 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+สุรินทร์ B-DEST
+4300 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ระนอง B-DEST
+1000 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+สุราษฎร์ธานี B-DEST
+4200 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+สมุย B-DEST
+1500 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+นครศรีธรรมราช B-DEST
+4300 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ภูเก็ต B-DEST
+3700 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+กระบี่ B-DEST
+1600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+ตรัง B-DEST
+1400 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+หาดใหญ่ B-DEST
+1400 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แพร่ B-START
+- O
+นราธิวาส B-DEST
+4200 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+เชียงใหม่ B-DEST
+4500 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+BKK B-DEST
+1700 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+DMK B-DEST
+3800 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+เชียงราย B-DEST
+3100 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+CEI B-DEST
+2200 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+แม่ฮ่องสอน B-DEST
+1000 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+น่าน B-DEST
+2600 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+NNT B-DEST
+2300 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+แพร่ B-DEST
+1100 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+แม่สอด B-DEST
+3000 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+สุโขทัย B-DEST
+700 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+พิษณุโลก B-DEST
+600 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+อุดรธานี B-DEST
+3900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+นครพนม B-DEST
+5000 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+ขอนเเก่น B-DEST
+2500 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+ร้อยเอ็ด B-DEST
+4900 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+อุบลราชธานี B-DEST
+1200 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+สุรินทร์ B-DEST
+2500 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+ระนอง B-DEST
+2200 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+สุราษฎร์ธานี B-DEST
+4600 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+สมุย B-DEST
+1700 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+นครศรีธรรมราช B-DEST
+2500 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+ภูเก็ต B-DEST
+1700 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+กระบี่ B-DEST
+1700 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+ตรัง B-DEST
+1900 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+หาดใหญ่ B-DEST
+1300 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ลำปาง B-START
+- O
+นราธิวาส B-DEST
+2500 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+เชียงใหม่ B-DEST
+3300 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+BKK B-DEST
+2600 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+DMK B-DEST
+1500 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+เชียงราย B-DEST
+4200 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+CEI B-DEST
+2900 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+แม่ฮ่องสอน B-DEST
+4500 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+น่าน B-DEST
+3400 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+NNT B-DEST
+3300 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+แพร่ B-DEST
+2300 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ลำปาง B-DEST
+1700 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+สุโขทัย B-DEST
+3900 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+พิษณุโลก B-DEST
+3100 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+อุดรธานี B-DEST
+4800 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+นครพนม B-DEST
+600 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ขอนเเก่น B-DEST
+5000 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ร้อยเอ็ด B-DEST
+1900 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+อุบลราชธานี B-DEST
+2200 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+สุรินทร์ B-DEST
+4900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ระนอง B-DEST
+3100 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+สุราษฎร์ธานี B-DEST
+2400 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+สมุย B-DEST
+700 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+นครศรีธรรมราช B-DEST
+3600 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ภูเก็ต B-DEST
+2900 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+กระบี่ B-DEST
+3900 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+ตรัง B-DEST
+2100 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+หาดใหญ่ B-DEST
+3500 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+แม่สอด B-START
+- O
+นราธิวาส B-DEST
+4200 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+เชียงใหม่ B-DEST
+3100 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+BKK B-DEST
 600 B-PRICE
 1 B-TIME
 ทุ่ม I-TIME
 
+ตั๋ว O
+สุโขทัย B-START
+- O
+DMK B-DEST
+3200 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+เชียงราย B-DEST
+1300 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+CEI B-DEST
+1300 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+แม่ฮ่องสอน B-DEST
+4400 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+น่าน B-DEST
+3800 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+NNT B-DEST
+1000 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+แพร่ B-DEST
+2600 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ลำปาง B-DEST
+1500 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+แม่สอด B-DEST
+4100 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+พิษณุโลก B-DEST
+1900 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+อุดรธานี B-DEST
+2700 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+นครพนม B-DEST
+3500 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ขอนเเก่น B-DEST
+1200 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ร้อยเอ็ด B-DEST
+700 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+อุบลราชธานี B-DEST
+2700 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+สุรินทร์ B-DEST
+3400 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ระนอง B-DEST
+1300 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+สุราษฎร์ธานี B-DEST
+1500 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+สมุย B-DEST
+1300 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+นครศรีธรรมราช B-DEST
+2700 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ภูเก็ต B-DEST
+3100 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+กระบี่ B-DEST
+4400 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+ตรัง B-DEST
+2100 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+หาดใหญ่ B-DEST
+4800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุโขทัย B-START
+- O
+นราธิวาส B-DEST
+2800 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+เชียงใหม่ B-DEST
+2400 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+BKK B-DEST
+1300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+DMK B-DEST
+3300 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+เชียงราย B-DEST
+4500 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+CEI B-DEST
+3100 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+แม่ฮ่องสอน B-DEST
+700 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+น่าน B-DEST
+1000 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+NNT B-DEST
+1500 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+แพร่ B-DEST
+2100 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ลำปาง B-DEST
+3900 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+แม่สอด B-DEST
+3100 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+สุโขทัย B-DEST
+2000 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+อุดรธานี B-DEST
+2200 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+นครพนม B-DEST
+3600 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ขอนเเก่น B-DEST
+3600 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ร้อยเอ็ด B-DEST
+4300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+อุบลราชธานี B-DEST
+1000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+สุรินทร์ B-DEST
+3200 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ระนอง B-DEST
+3600 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+สุราษฎร์ธานี B-DEST
+5000 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+สมุย B-DEST
+2000 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+นครศรีธรรมราช B-DEST
+2300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ภูเก็ต B-DEST
+1300 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+กระบี่ B-DEST
+4700 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+ตรัง B-DEST
+3500 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+หาดใหญ่ B-DEST
+800 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+พิษณุโลก B-START
+- O
+นราธิวาส B-DEST
+3300 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+เชียงใหม่ B-DEST
+1400 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+BKK B-DEST
+1300 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+DMK B-DEST
+2100 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+เชียงราย B-DEST
+900 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+CEI B-DEST
+3200 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+แม่ฮ่องสอน B-DEST
+3200 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+น่าน B-DEST
+3400 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+NNT B-DEST
+2400 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+แพร่ B-DEST
+2900 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ลำปาง B-DEST
+5000 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+แม่สอด B-DEST
+4000 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+สุโขทัย B-DEST
+4700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+พิษณุโลก B-DEST
+4800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+นครพนม B-DEST
+700 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ขอนเเก่น B-DEST
+5000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ร้อยเอ็ด B-DEST
+2700 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+อุบลราชธานี B-DEST
+5000 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+สุรินทร์ B-DEST
+2900 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ระนอง B-DEST
+3300 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+สุราษฎร์ธานี B-DEST
+3700 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+สมุย B-DEST
+4200 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+นครศรีธรรมราช B-DEST
+3400 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ภูเก็ต B-DEST
+3600 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+กระบี่ B-DEST
+4500 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+ตรัง B-DEST
+2700 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+หาดใหญ่ B-DEST
+700 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุดรธานี B-START
+- O
+นราธิวาส B-DEST
+4100 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+เชียงใหม่ B-DEST
+3600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+BKK B-DEST
+4500 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+DMK B-DEST
+2200 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+เชียงราย B-DEST
+4500 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+CEI B-DEST
+1800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+แม่ฮ่องสอน B-DEST
+1400 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+น่าน B-DEST
+3700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+NNT B-DEST
+3100 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+แพร่ B-DEST
+900 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ลำปาง B-DEST
+4900 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+แม่สอด B-DEST
+3800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+สุโขทัย B-DEST
+3600 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+พิษณุโลก B-DEST
+1300 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+อุดรธานี B-DEST
+1000 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ขอนเเก่น B-DEST
+2400 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ร้อยเอ็ด B-DEST
+2200 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+อุบลราชธานี B-DEST
+5000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+สุรินทร์ B-DEST
+3800 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ระนอง B-DEST
+4500 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+สุราษฎร์ธานี B-DEST
+4500 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+สมุย B-DEST
+4500 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+นครศรีธรรมราช B-DEST
+2900 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ภูเก็ต B-DEST
+2200 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+กระบี่ B-DEST
+2900 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+ตรัง B-DEST
+2100 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+หาดใหญ่ B-DEST
+3700 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครพนม B-START
+- O
+นราธิวาส B-DEST
+500 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+เชียงใหม่ B-DEST
+4700 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+BKK B-DEST
+2300 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+DMK B-DEST
+500 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+เชียงราย B-DEST
+3100 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+CEI B-DEST
+700 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+แม่ฮ่องสอน B-DEST
+3500 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+น่าน B-DEST
+800 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+NNT B-DEST
+2500 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+แพร่ B-DEST
+3000 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+ลำปาง B-DEST
+1400 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+แม่สอด B-DEST
+1700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+สุโขทัย B-DEST
+2600 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+พิษณุโลก B-DEST
+2100 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+อุดรธานี B-DEST
+900 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+นครพนม B-DEST
+3700 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+ร้อยเอ็ด B-DEST
+600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+อุบลราชธานี B-DEST
+5000 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+สุรินทร์ B-DEST
+4600 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+ระนอง B-DEST
+3600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+สุราษฎร์ธานี B-DEST
+3900 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+สมุย B-DEST
+1500 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+นครศรีธรรมราช B-DEST
+3100 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+ภูเก็ต B-DEST
+3000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+กระบี่ B-DEST
+1900 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+ตรัง B-DEST
+1900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+หาดใหญ่ B-DEST
+2000 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ขอนเเก่น B-START
+- O
+นราธิวาส B-DEST
+3400 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+เชียงใหม่ B-DEST
+1800 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+BKK B-DEST
+2300 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+DMK B-DEST
+800 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+เชียงราย B-DEST
+4300 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+CEI B-DEST
+3800 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+แม่ฮ่องสอน B-DEST
+5000 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+น่าน B-DEST
+1400 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+NNT B-DEST
+2100 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+แพร่ B-DEST
+1200 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+ลำปาง B-DEST
+3800 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+แม่สอด B-DEST
+2100 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+สุโขทัย B-DEST
+2800 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+พิษณุโลก B-DEST
+5000 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+อุดรธานี B-DEST
+4300 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+นครพนม B-DEST
+800 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+ขอนเเก่น B-DEST
+4100 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+อุบลราชธานี B-DEST
+3800 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+สุรินทร์ B-DEST
+600 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+ระนอง B-DEST
+900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+สุราษฎร์ธานี B-DEST
+1300 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+สมุย B-DEST
+1600 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+นครศรีธรรมราช B-DEST
+1000 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+ภูเก็ต B-DEST
+3300 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+กระบี่ B-DEST
+3800 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+ตรัง B-DEST
+1100 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+หาดใหญ่ B-DEST
+4000 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ร้อยเอ็ด B-START
+- O
+นราธิวาส B-DEST
+4700 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+เชียงใหม่ B-DEST
+2600 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+BKK B-DEST
+4800 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+DMK B-DEST
+4100 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+เชียงราย B-DEST
+3400 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+CEI B-DEST
+3300 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+แม่ฮ่องสอน B-DEST
+500 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+น่าน B-DEST
+1900 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+NNT B-DEST
+3100 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+แพร่ B-DEST
+1400 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ลำปาง B-DEST
+5000 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+แม่สอด B-DEST
+2400 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+สุโขทัย B-DEST
+1400 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+พิษณุโลก B-DEST
+3400 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+อุดรธานี B-DEST
+3600 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+นครพนม B-DEST
+3900 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ขอนเเก่น B-DEST
+1900 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ร้อยเอ็ด B-DEST
+1900 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+สุรินทร์ B-DEST
+3700 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ระนอง B-DEST
+1300 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+สุราษฎร์ธานี B-DEST
+3500 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+สมุย B-DEST
+4000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+นครศรีธรรมราช B-DEST
+3100 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ภูเก็ต B-DEST
+4900 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+กระบี่ B-DEST
+3300 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+ตรัง B-DEST
+1000 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+หาดใหญ่ B-DEST
+700 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+อุบลราชธานี B-START
+- O
+นราธิวาส B-DEST
+4500 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+เชียงใหม่ B-DEST
+1100 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+BKK B-DEST
+3000 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+DMK B-DEST
+3900 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+เชียงราย B-DEST
+4100 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+CEI B-DEST
+500 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+แม่ฮ่องสอน B-DEST
+3100 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+น่าน B-DEST
+5000 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+NNT B-DEST
+3500 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+แพร่ B-DEST
+2100 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ลำปาง B-DEST
+3300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+แม่สอด B-DEST
+3600 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+สุโขทัย B-DEST
+3900 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+พิษณุโลก B-DEST
+5000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+อุดรธานี B-DEST
+3100 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+นครพนม B-DEST
+1500 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ขอนเเก่น B-DEST
+800 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ร้อยเอ็ด B-DEST
+2900 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+อุบลราชธานี B-DEST
+4700 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ระนอง B-DEST
+5000 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+สุราษฎร์ธานี B-DEST
+500 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+สมุย B-DEST
+2700 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+นครศรีธรรมราช B-DEST
+3000 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ภูเก็ต B-DEST
+600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+กระบี่ B-DEST
+3200 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+ตรัง B-DEST
+2500 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+หาดใหญ่ B-DEST
+5000 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุรินทร์ B-START
+- O
+นราธิวาส B-DEST
+2500 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+เชียงใหม่ B-DEST
+1500 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+BKK B-DEST
+2300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+DMK B-DEST
+4400 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+เชียงราย B-DEST
+2900 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+CEI B-DEST
+3900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+แม่ฮ่องสอน B-DEST
+3600 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+น่าน B-DEST
+1900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+NNT B-DEST
+3600 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+แพร่ B-DEST
+2300 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+ลำปาง B-DEST
+1800 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+แม่สอด B-DEST
+4400 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+สุโขทัย B-DEST
+5000 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+พิษณุโลก B-DEST
+3900 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+อุดรธานี B-DEST
+4000 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+นครพนม B-DEST
+4800 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+ขอนเเก่น B-DEST
+2600 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+ร้อยเอ็ด B-DEST
+4400 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+อุบลราชธานี B-DEST
+3800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+สุรินทร์ B-DEST
+2300 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+สุราษฎร์ธานี B-DEST
+4200 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+สมุย B-DEST
+3400 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+นครศรีธรรมราช B-DEST
+2500 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+ภูเก็ต B-DEST
+3800 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+กระบี่ B-DEST
+2600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+ตรัง B-DEST
+3200 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+หาดใหญ่ B-DEST
+800 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ระนอง B-START
+- O
+นราธิวาส B-DEST
+900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+เชียงใหม่ B-DEST
+3000 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+BKK B-DEST
+4500 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+DMK B-DEST
+4100 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+เชียงราย B-DEST
+3500 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+CEI B-DEST
+2700 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+แม่ฮ่องสอน B-DEST
+2400 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+น่าน B-DEST
+1700 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+NNT B-DEST
+4600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+แพร่ B-DEST
+900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ลำปาง B-DEST
+3100 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+แม่สอด B-DEST
+3600 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+สุโขทัย B-DEST
+1500 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+พิษณุโลก B-DEST
+700 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+อุดรธานี B-DEST
+4700 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+นครพนม B-DEST
+4300 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ขอนเเก่น B-DEST
+900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ร้อยเอ็ด B-DEST
+1000 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+อุบลราชธานี B-DEST
+1200 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+สุรินทร์ B-DEST
+2800 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ระนอง B-DEST
+900 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+สมุย B-DEST
+4100 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+นครศรีธรรมราช B-DEST
+3500 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ภูเก็ต B-DEST
+500 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+กระบี่ B-DEST
+4300 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+ตรัง B-DEST
+5000 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+หาดใหญ่ B-DEST
+900 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สุราษฎร์ธานี B-START
+- O
+นราธิวาส B-DEST
+3600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+เชียงใหม่ B-DEST
+4800 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+BKK B-DEST
+3500 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+DMK B-DEST
+2600 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+เชียงราย B-DEST
+2000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+CEI B-DEST
+1200 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+แม่ฮ่องสอน B-DEST
+1300 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+น่าน B-DEST
+700 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+NNT B-DEST
+3700 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+แพร่ B-DEST
+2600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ลำปาง B-DEST
+500 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+แม่สอด B-DEST
+4100 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+สุโขทัย B-DEST
+4900 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+พิษณุโลก B-DEST
+3400 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+อุดรธานี B-DEST
+4600 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+นครพนม B-DEST
+4600 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ขอนเเก่น B-DEST
+1800 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ร้อยเอ็ด B-DEST
+4300 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+อุบลราชธานี B-DEST
+4100 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+สุรินทร์ B-DEST
+3300 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ระนอง B-DEST
+2200 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+สุราษฎร์ธานี B-DEST
+2100 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+นครศรีธรรมราช B-DEST
+500 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ภูเก็ต B-DEST
+1000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+กระบี่ B-DEST
+3100 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+ตรัง B-DEST
+800 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+หาดใหญ่ B-DEST
+1100 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+สมุย B-START
+- O
+นราธิวาส B-DEST
+3300 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+เชียงใหม่ B-DEST
+4000 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+BKK B-DEST
+5000 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+DMK B-DEST
+1400 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+เชียงราย B-DEST
+1100 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+CEI B-DEST
+800 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+แม่ฮ่องสอน B-DEST
+2300 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+น่าน B-DEST
+2900 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+NNT B-DEST
+1700 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+แพร่ B-DEST
+4100 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ลำปาง B-DEST
+3000 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+แม่สอด B-DEST
+600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+สุโขทัย B-DEST
+1900 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+พิษณุโลก B-DEST
+4300 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+อุดรธานี B-DEST
+1700 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+นครพนม B-DEST
+3800 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ขอนเเก่น B-DEST
+2400 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ร้อยเอ็ด B-DEST
+800 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+อุบลราชธานี B-DEST
+1500 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+สุรินทร์ B-DEST
+1100 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ระนอง B-DEST
+2600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+สุราษฎร์ธานี B-DEST
+3600 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+สมุย B-DEST
+1700 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ภูเก็ต B-DEST
+3800 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+กระบี่ B-DEST
+5000 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+ตรัง B-DEST
+3400 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+หาดใหญ่ B-DEST
+3200 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+นครศรีธรรมราช B-START
+- O
+นราธิวาส B-DEST
+4400 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+เชียงใหม่ B-DEST
+2500 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+BKK B-DEST
+1900 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+DMK B-DEST
+4100 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+เชียงราย B-DEST
+2300 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+CEI B-DEST
+1800 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+แม่ฮ่องสอน B-DEST
+1400 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+น่าน B-DEST
+2700 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+NNT B-DEST
+1200 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+แพร่ B-DEST
+1400 B-PRICE
+8 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+ลำปาง B-DEST
+2500 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+แม่สอด B-DEST
+5000 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+สุโขทัย B-DEST
+3900 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+พิษณุโลก B-DEST
+3600 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+อุดรธานี B-DEST
+4400 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+นครพนม B-DEST
+1500 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+ขอนเเก่น B-DEST
+4000 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+ร้อยเอ็ด B-DEST
+3300 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+อุบลราชธานี B-DEST
+4200 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+สุรินทร์ B-DEST
+700 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+ระนอง B-DEST
+4300 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+สุราษฎร์ธานี B-DEST
+1500 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+สมุย B-DEST
+2600 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+นครศรีธรรมราช B-DEST
+1800 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+กระบี่ B-DEST
+2300 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+ตรัง B-DEST
+2700 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+หาดใหญ่ B-DEST
+500 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+ภูเก็ต B-START
+- O
+นราธิวาส B-DEST
+2000 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+เชียงใหม่ B-DEST
+1700 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+BKK B-DEST
+3400 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+DMK B-DEST
+800 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+เชียงราย B-DEST
+2300 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+CEI B-DEST
+4900 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+แม่ฮ่องสอน B-DEST
+3300 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+น่าน B-DEST
+3800 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+NNT B-DEST
+3500 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+แพร่ B-DEST
+4000 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ลำปาง B-DEST
+3500 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+แม่สอด B-DEST
+3700 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+สุโขทัย B-DEST
+1300 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+พิษณุโลก B-DEST
+1300 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+อุดรธานี B-DEST
+1300 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+นครพนม B-DEST
+600 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ขอนเเก่น B-DEST
+900 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ร้อยเอ็ด B-DEST
+4200 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+อุบลราชธานี B-DEST
+4500 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+สุรินทร์ B-DEST
+1000 B-PRICE
+11 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ระนอง B-DEST
+3400 B-PRICE
+4 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+สุราษฎร์ธานี B-DEST
+2800 B-PRICE
+ตี B-TIME
+4 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+สมุย B-DEST
+3400 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+นครศรีธรรมราช B-DEST
+4800 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ภูเก็ต B-DEST
+3800 B-PRICE
+4 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+ตรัง B-DEST
+4700 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+หาดใหญ่ B-DEST
+3000 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+กระบี่ B-START
+- O
+นราธิวาส B-DEST
+1300 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+เชียงใหม่ B-DEST
+3900 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+BKK B-DEST
+3300 B-PRICE
+บ่าย B-TIME
+1 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+DMK B-DEST
+3400 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+เชียงราย B-DEST
+800 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+CEI B-DEST
+2100 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+แม่ฮ่องสอน B-DEST
+5000 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+น่าน B-DEST
+1100 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+NNT B-DEST
+2600 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+แพร่ B-DEST
+3900 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+ลำปาง B-DEST
+1900 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+แม่สอด B-DEST
+4100 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+สุโขทัย B-DEST
+4500 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+พิษณุโลก B-DEST
+1800 B-PRICE
+10 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+อุดรธานี B-DEST
+3200 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+นครพนม B-DEST
+1700 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+ขอนเเก่น B-DEST
+2600 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+ร้อยเอ็ด B-DEST
+4500 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+อุบลราชธานี B-DEST
+1600 B-PRICE
+ตี B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+สุรินทร์ B-DEST
+4900 B-PRICE
+5 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+ระนอง B-DEST
+5000 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+สุราษฎร์ธานี B-DEST
+4000 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+สมุย B-DEST
+700 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+นครศรีธรรมราช B-DEST
+2800 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+ภูเก็ต B-DEST
+1200 B-PRICE
+1 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+กระบี่ B-DEST
+4300 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+หาดใหญ่ B-DEST
+2000 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+ตรัง B-START
+- O
+นราธิวาส B-DEST
+3200 B-PRICE
+3 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+เชียงใหม่ B-DEST
+1600 B-PRICE
+1 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+BKK B-DEST
+2200 B-PRICE
+บ่าย B-TIME
+2 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+DMK B-DEST
+3700 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+เชียงราย B-DEST
+700 B-PRICE
+7 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+CEI B-DEST
+4300 B-PRICE
+2 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+แม่ฮ่องสอน B-DEST
+3600 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+น่าน B-DEST
+1000 B-PRICE
+ตี B-TIME
+1 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+NNT B-DEST
+2600 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+แพร่ B-DEST
+4600 B-PRICE
+2 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+ลำปาง B-DEST
+3400 B-PRICE
+5 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+แม่สอด B-DEST
+3700 B-PRICE
+9 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+สุโขทัย B-DEST
+3500 B-PRICE
+บ่าย B-TIME
+3 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+พิษณุโลก B-DEST
+800 B-PRICE
+ตี B-TIME
+5 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+อุดรธานี B-DEST
+2800 B-PRICE
+6 B-TIME
+โมงเช้า I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+นครพนม B-DEST
+2800 B-PRICE
+ตี B-TIME
+3 I-TIME
+
+ตั๋ว O
+หาดใหญ่ B-START
+- O
+ขอนเเก่น B-DEST
+600 B-PRICE
+3 B-TIME
+ทุ่ม I-TIME
+
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 ร้อยเอ็ด B-DEST
 4300 B-PRICE
 ตี B-TIME
-4 I-TIME
+2 I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 อุบลราชธานี B-DEST
 2100 B-PRICE
-6 B-TIME
+3 B-TIME
 โมงเช้า I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 สุรินทร์ B-DEST
 4100 B-PRICE
-บ่าย B-TIME
-2 I-TIME
+1 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 ระนอง B-DEST
 4900 B-PRICE
-3 B-TIME
-ทุ่ม I-TIME
+7 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 สุราษฎร์ธานี B-DEST
 2500 B-PRICE
-4 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+2 I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 สมุย B-DEST
 5000 B-PRICE
-บ่าย B-TIME
+ตี B-TIME
 2 I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 นครศรีธรรมราช B-DEST
 4700 B-PRICE
-7 B-TIME
-โมงเช้า I-TIME
+3 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 ภูเก็ต B-DEST
 2900 B-PRICE
-2 B-TIME
-โมงเช้า I-TIME
+5 B-TIME
+ทุ่ม I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 กระบี่ B-DEST
 2500 B-PRICE
-บ่าย B-TIME
-3 I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 ตรัง B-DEST
 4500 B-PRICE
-ตี B-TIME
-3 I-TIME
+10 B-TIME
+โมงเช้า I-TIME
 
+ตั๋ว O
 หาดใหญ่ B-START
 - O
 นราธิวาส B-DEST
 2200 B-PRICE
-2 B-TIME
-ทุ่ม I-TIME
+ตี B-TIME
+5 I-TIME
 
