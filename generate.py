@@ -30,20 +30,21 @@ def write_data(data ,part):
                     f.writelines(sen[i] + " " + "B-DEST" + '\n')
                 # if i ==7:
                 #     f.writelines("" + '\n')
-            rand = random.randint(1,12)
-            rand1 = random.randint(0,1)
+            rand = random.randint(1,24)
+            # rand1 = random.randint(0,1)
             rand2 = random.randint(1,59)
-            f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n")
-            if rand1 == 0 :
-                word = "AM"
-            else : 
-                word = "PM"
-            if rand2 <= 9:
-                rand2 = "0"+str(rand2)
+            # f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n")
+            # if rand1 == 0 :
+            #     word = "AM"
+            # else : 
+            #     word = "PM"
+            # if rand2 <= 9:
+            #     rand2 = "0"+str(rand2)
             f.writelines(str(rand) + " " + "B-TIME" + "\n")
             f.writelines("." + " " + "I-TIME" + "\n")
             f.writelines(str(rand2) + " " + "I-TIME" + "\n")
-            f.writelines(word + " " + "I-TIME" + "\n") 
+            f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n")
+            # f.writelines(word + " " + "I-TIME" + "\n") 
             # f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n") 
             # j = random.randrange(len(x_2)-1)
             # # for i in range(4,7):
@@ -52,4 +53,4 @@ def write_data(data ,part):
             #     f.writelines(x_2[j][i] + " " + "I-PRICE" + "\n")
             f.writelines('\n')
 
-write_data(zip(x, y) ,'./Project/NLp_Project/chain6.txt')
+write_data(zip(x, y) ,'./Project/NLp_Project/chain3.txt')
