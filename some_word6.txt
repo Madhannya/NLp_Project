@@ -1,0 +1,5832 @@
+﻿4900 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+BKK B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+2700 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+DMK B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+5700 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+เชียงราย B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+7200 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+CEI B-START
+3 B_TIME
+. I_TIME
+40 I_TIME
+
+500 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+5 B_TIME
+. I_TIME
+20 I_TIME
+
+4500 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+น่าน B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+6300 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+NNT B-START
+8 B_TIME
+. I_TIME
+10 I_TIME
+
+3500 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+แพร่ B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+7400 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ลำปาง B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+3800 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+แม่สอด B-START
+10 B_TIME
+. I_TIME
+30 I_TIME
+
+8000 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+สุโขทัย B-START
+24 B_TIME
+. I_TIME
+50 I_TIME
+
+7200 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+พิษณุโลก B-START
+1 B_TIME
+. I_TIME
+10 I_TIME
+
+3400 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+อุดรธานี B-START
+24 B_TIME
+. I_TIME
+50 I_TIME
+
+1000 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+นครพนม B-START
+14 B_TIME
+. I_TIME
+50 I_TIME
+
+1800 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ขอนเเก่น B-START
+20 B_TIME
+. I_TIME
+10 I_TIME
+
+6300 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ร้อยเอ็ด B-START
+15 B_TIME
+. I_TIME
+00 I_TIME
+
+1800 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+อุบลราชธานี B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+3200 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+สุรินทร์ B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+300 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ระนอง B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+800 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+6100 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+สมุย B-START
+14 B_TIME
+. I_TIME
+50 I_TIME
+
+7600 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+นครศรีธรรมราช B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+1200 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ภูเก็ต B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+500 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+กระบี่ B-START
+12 B_TIME
+. I_TIME
+40 I_TIME
+
+6900 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+ตรัง B-START
+20 B_TIME
+. I_TIME
+20 I_TIME
+
+9700 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+หาดใหญ่ B-START
+5 B_TIME
+. I_TIME
+10 I_TIME
+
+1400 B-PRICE
+เชียงใหม่ B-DEST
+ไป O
+นราธิวาส B-START
+16 B_TIME
+. I_TIME
+10 I_TIME
+
+5300 B-PRICE
+BKK B-DEST
+ไป O
+เชียงใหม่ B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+2200 B-PRICE
+BKK B-DEST
+ไป O
+DMK B-START
+4 B_TIME
+. I_TIME
+00 I_TIME
+
+9200 B-PRICE
+BKK B-DEST
+ไป O
+เชียงราย B-START
+15 B_TIME
+. I_TIME
+10 I_TIME
+
+9400 B-PRICE
+BKK B-DEST
+ไป O
+CEI B-START
+22 B_TIME
+. I_TIME
+40 I_TIME
+
+7300 B-PRICE
+BKK B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+8 B_TIME
+. I_TIME
+00 I_TIME
+
+3500 B-PRICE
+BKK B-DEST
+ไป O
+น่าน B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+3700 B-PRICE
+BKK B-DEST
+ไป O
+NNT B-START
+16 B_TIME
+. I_TIME
+40 I_TIME
+
+8500 B-PRICE
+BKK B-DEST
+ไป O
+แพร่ B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+3900 B-PRICE
+BKK B-DEST
+ไป O
+ลำปาง B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+8400 B-PRICE
+BKK B-DEST
+ไป O
+แม่สอด B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+7100 B-PRICE
+BKK B-DEST
+ไป O
+สุโขทัย B-START
+7 B_TIME
+. I_TIME
+50 I_TIME
+
+2900 B-PRICE
+BKK B-DEST
+ไป O
+พิษณุโลก B-START
+7 B_TIME
+. I_TIME
+30 I_TIME
+
+600 B-PRICE
+BKK B-DEST
+ไป O
+อุดรธานี B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+2100 B-PRICE
+BKK B-DEST
+ไป O
+นครพนม B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+7300 B-PRICE
+BKK B-DEST
+ไป O
+ขอนเเก่น B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+4900 B-PRICE
+BKK B-DEST
+ไป O
+ร้อยเอ็ด B-START
+11 B_TIME
+. I_TIME
+40 I_TIME
+
+3300 B-PRICE
+BKK B-DEST
+ไป O
+อุบลราชธานี B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+2200 B-PRICE
+BKK B-DEST
+ไป O
+สุรินทร์ B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+2700 B-PRICE
+BKK B-DEST
+ไป O
+ระนอง B-START
+19 B_TIME
+. I_TIME
+10 I_TIME
+
+3500 B-PRICE
+BKK B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+2900 B-PRICE
+BKK B-DEST
+ไป O
+สมุย B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+4000 B-PRICE
+BKK B-DEST
+ไป O
+นครศรีธรรมราช B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+8700 B-PRICE
+BKK B-DEST
+ไป O
+ภูเก็ต B-START
+16 B_TIME
+. I_TIME
+30 I_TIME
+
+5900 B-PRICE
+BKK B-DEST
+ไป O
+กระบี่ B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+1700 B-PRICE
+BKK B-DEST
+ไป O
+ตรัง B-START
+10 B_TIME
+. I_TIME
+50 I_TIME
+
+8700 B-PRICE
+BKK B-DEST
+ไป O
+หาดใหญ่ B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+6000 B-PRICE
+BKK B-DEST
+ไป O
+นราธิวาส B-START
+10 B_TIME
+. I_TIME
+20 I_TIME
+
+5200 B-PRICE
+DMK B-DEST
+ไป O
+เชียงใหม่ B-START
+24 B_TIME
+. I_TIME
+00 I_TIME
+
+9100 B-PRICE
+DMK B-DEST
+ไป O
+BKK B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+5100 B-PRICE
+DMK B-DEST
+ไป O
+เชียงราย B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+500 B-PRICE
+DMK B-DEST
+ไป O
+CEI B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+2300 B-PRICE
+DMK B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+5400 B-PRICE
+DMK B-DEST
+ไป O
+น่าน B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+7000 B-PRICE
+DMK B-DEST
+ไป O
+NNT B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+4900 B-PRICE
+DMK B-DEST
+ไป O
+แพร่ B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+7700 B-PRICE
+DMK B-DEST
+ไป O
+ลำปาง B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+5300 B-PRICE
+DMK B-DEST
+ไป O
+แม่สอด B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+8700 B-PRICE
+DMK B-DEST
+ไป O
+สุโขทัย B-START
+2 B_TIME
+. I_TIME
+10 I_TIME
+
+5100 B-PRICE
+DMK B-DEST
+ไป O
+พิษณุโลก B-START
+14 B_TIME
+. I_TIME
+30 I_TIME
+
+1700 B-PRICE
+DMK B-DEST
+ไป O
+อุดรธานี B-START
+24 B_TIME
+. I_TIME
+20 I_TIME
+
+8900 B-PRICE
+DMK B-DEST
+ไป O
+นครพนม B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+2000 B-PRICE
+DMK B-DEST
+ไป O
+ขอนเเก่น B-START
+2 B_TIME
+. I_TIME
+10 I_TIME
+
+8900 B-PRICE
+DMK B-DEST
+ไป O
+ร้อยเอ็ด B-START
+12 B_TIME
+. I_TIME
+50 I_TIME
+
+4100 B-PRICE
+DMK B-DEST
+ไป O
+อุบลราชธานี B-START
+1 B_TIME
+. I_TIME
+10 I_TIME
+
+300 B-PRICE
+DMK B-DEST
+ไป O
+สุรินทร์ B-START
+15 B_TIME
+. I_TIME
+40 I_TIME
+
+1200 B-PRICE
+DMK B-DEST
+ไป O
+ระนอง B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+4400 B-PRICE
+DMK B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+7 B_TIME
+. I_TIME
+20 I_TIME
+
+2800 B-PRICE
+DMK B-DEST
+ไป O
+สมุย B-START
+19 B_TIME
+. I_TIME
+00 I_TIME
+
+6500 B-PRICE
+DMK B-DEST
+ไป O
+นครศรีธรรมราช B-START
+24 B_TIME
+. I_TIME
+40 I_TIME
+
+6200 B-PRICE
+DMK B-DEST
+ไป O
+ภูเก็ต B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+5600 B-PRICE
+DMK B-DEST
+ไป O
+กระบี่ B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+400 B-PRICE
+DMK B-DEST
+ไป O
+ตรัง B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+4100 B-PRICE
+DMK B-DEST
+ไป O
+หาดใหญ่ B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+3800 B-PRICE
+DMK B-DEST
+ไป O
+นราธิวาส B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+8700 B-PRICE
+เชียงราย B-DEST
+ไป O
+เชียงใหม่ B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+2300 B-PRICE
+CEI B-DEST
+ไป O
+เชียงใหม่ B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+1600 B-PRICE
+เชียงราย B-DEST
+ไป O
+BKK B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+8000 B-PRICE
+CEI B-DEST
+ไป O
+BKK B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+1100 B-PRICE
+เชียงราย B-DEST
+ไป O
+DMK B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+3800 B-PRICE
+CEI B-DEST
+ไป O
+DMK B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+2400 B-PRICE
+เชียงราย B-DEST
+ไป O
+CEI B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+7100 B-PRICE
+CEI B-DEST
+ไป O
+เชียงราย B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+7300 B-PRICE
+เชียงราย B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+15 B_TIME
+. I_TIME
+00 I_TIME
+
+1000 B-PRICE
+CEI B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+14 B_TIME
+. I_TIME
+30 I_TIME
+
+2100 B-PRICE
+เชียงราย B-DEST
+ไป O
+น่าน B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+4000 B-PRICE
+เชียงราย B-DEST
+ไป O
+NNT B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+4100 B-PRICE
+CEI B-DEST
+ไป O
+น่าน B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+7500 B-PRICE
+CEI B-DEST
+ไป O
+NNT B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+4200 B-PRICE
+เชียงราย B-DEST
+ไป O
+แพร่ B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+5500 B-PRICE
+CEI B-DEST
+ไป O
+แพร่ B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+5700 B-PRICE
+เชียงราย B-DEST
+ไป O
+ลำปาง B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+3400 B-PRICE
+CEI B-DEST
+ไป O
+ลำปาง B-START
+13 B_TIME
+. I_TIME
+20 I_TIME
+
+8500 B-PRICE
+เชียงราย B-DEST
+ไป O
+แม่สอด B-START
+16 B_TIME
+. I_TIME
+00 I_TIME
+
+5800 B-PRICE
+CEI B-DEST
+ไป O
+แม่สอด B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+5400 B-PRICE
+เชียงราย B-DEST
+ไป O
+สุโขทัย B-START
+2 B_TIME
+. I_TIME
+20 I_TIME
+
+3500 B-PRICE
+CEI B-DEST
+ไป O
+สุโขทัย B-START
+7 B_TIME
+. I_TIME
+00 I_TIME
+
+9700 B-PRICE
+เชียงราย B-DEST
+ไป O
+พิษณุโลก B-START
+16 B_TIME
+. I_TIME
+40 I_TIME
+
+9500 B-PRICE
+CEI B-DEST
+ไป O
+พิษณุโลก B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+2500 B-PRICE
+เชียงราย B-DEST
+ไป O
+อุดรธานี B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+7700 B-PRICE
+CEI B-DEST
+ไป O
+อุดรธานี B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+7800 B-PRICE
+เชียงราย B-DEST
+ไป O
+นครพนม B-START
+6 B_TIME
+. I_TIME
+50 I_TIME
+
+7700 B-PRICE
+CEI B-DEST
+ไป O
+นครพนม B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+3900 B-PRICE
+เชียงราย B-DEST
+ไป O
+ขอนเเก่น B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+4300 B-PRICE
+CEI B-DEST
+ไป O
+ขอนเเก่น B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+4500 B-PRICE
+เชียงราย B-DEST
+ไป O
+ร้อยเอ็ด B-START
+3 B_TIME
+. I_TIME
+50 I_TIME
+
+5700 B-PRICE
+CEI B-DEST
+ไป O
+ร้อยเอ็ด B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+9600 B-PRICE
+เชียงราย B-DEST
+ไป O
+อุบลราชธานี B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+6900 B-PRICE
+CEI B-DEST
+ไป O
+อุบลราชธานี B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+4100 B-PRICE
+เชียงราย B-DEST
+ไป O
+สุรินทร์ B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+5500 B-PRICE
+CEI B-DEST
+ไป O
+สุรินทร์ B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+7600 B-PRICE
+เชียงราย B-DEST
+ไป O
+ระนอง B-START
+23 B_TIME
+. I_TIME
+10 I_TIME
+
+1300 B-PRICE
+CEI B-DEST
+ไป O
+ระนอง B-START
+10 B_TIME
+. I_TIME
+40 I_TIME
+
+3400 B-PRICE
+เชียงราย B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+2500 B-PRICE
+CEI B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+7100 B-PRICE
+เชียงราย B-DEST
+ไป O
+สมุย B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+2100 B-PRICE
+CEI B-DEST
+ไป O
+สมุย B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+7200 B-PRICE
+เชียงราย B-DEST
+ไป O
+นครศรีธรรมราช B-START
+3 B_TIME
+. I_TIME
+50 I_TIME
+
+9300 B-PRICE
+CEI B-DEST
+ไป O
+นครศรีธรรมราช B-START
+15 B_TIME
+. I_TIME
+40 I_TIME
+
+6600 B-PRICE
+เชียงราย B-DEST
+ไป O
+ภูเก็ต B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+1100 B-PRICE
+CEI B-DEST
+ไป O
+ภูเก็ต B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+100 B-PRICE
+เชียงราย B-DEST
+ไป O
+กระบี่ B-START
+16 B_TIME
+. I_TIME
+00 I_TIME
+
+600 B-PRICE
+CEI B-DEST
+ไป O
+กระบี่ B-START
+12 B_TIME
+. I_TIME
+10 I_TIME
+
+9800 B-PRICE
+เชียงราย B-DEST
+ไป O
+ตรัง B-START
+18 B_TIME
+. I_TIME
+40 I_TIME
+
+3300 B-PRICE
+CEI B-DEST
+ไป O
+ตรัง B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+7700 B-PRICE
+เชียงราย B-DEST
+ไป O
+หาดใหญ่ B-START
+13 B_TIME
+. I_TIME
+20 I_TIME
+
+5200 B-PRICE
+CEI B-DEST
+ไป O
+หาดใหญ่ B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+900 B-PRICE
+เชียงราย B-DEST
+ไป O
+นราธิวาส B-START
+4 B_TIME
+. I_TIME
+10 I_TIME
+
+9600 B-PRICE
+CEI B-DEST
+ไป O
+นราธิวาส B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+2500 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+เชียงใหม่ B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+3200 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+BKK B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+9600 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+DMK B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+2500 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+เชียงราย B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+4400 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+CEI B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+6700 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+น่าน B-START
+7 B_TIME
+. I_TIME
+30 I_TIME
+
+1800 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+NNT B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+1300 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+แพร่ B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+6000 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ลำปาง B-START
+22 B_TIME
+. I_TIME
+40 I_TIME
+
+500 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+แม่สอด B-START
+8 B_TIME
+. I_TIME
+10 I_TIME
+
+8300 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+สุโขทัย B-START
+7 B_TIME
+. I_TIME
+50 I_TIME
+
+5900 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+พิษณุโลก B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+8200 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+อุดรธานี B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+1100 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+นครพนม B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+7200 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ขอนเเก่น B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+9300 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ร้อยเอ็ด B-START
+2 B_TIME
+. I_TIME
+50 I_TIME
+
+200 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+อุบลราชธานี B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+8000 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+สุรินทร์ B-START
+10 B_TIME
+. I_TIME
+20 I_TIME
+
+5700 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ระนอง B-START
+14 B_TIME
+. I_TIME
+50 I_TIME
+
+3300 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+7800 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+สมุย B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+5600 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+นครศรีธรรมราช B-START
+11 B_TIME
+. I_TIME
+40 I_TIME
+
+8300 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ภูเก็ต B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+9600 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+กระบี่ B-START
+16 B_TIME
+. I_TIME
+10 I_TIME
+
+100 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+ตรัง B-START
+4 B_TIME
+. I_TIME
+20 I_TIME
+
+4500 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+หาดใหญ่ B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+5500 B-PRICE
+แม่ฮ่องสอน B-DEST
+ไป O
+นราธิวาส B-START
+16 B_TIME
+. I_TIME
+40 I_TIME
+
+500 B-PRICE
+น่าน B-DEST
+ไป O
+เชียงใหม่ B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+2500 B-PRICE
+NNT B-DEST
+ไป O
+เชียงใหม่ B-START
+21 B_TIME
+. I_TIME
+00 I_TIME
+
+9300 B-PRICE
+น่าน B-DEST
+ไป O
+BKK B-START
+12 B_TIME
+. I_TIME
+50 I_TIME
+
+2400 B-PRICE
+NNT B-DEST
+ไป O
+BKK B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+3400 B-PRICE
+น่าน B-DEST
+ไป O
+DMK B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+1000 B-PRICE
+NNT B-DEST
+ไป O
+DMK B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+7600 B-PRICE
+น่าน B-DEST
+ไป O
+เชียงราย B-START
+5 B_TIME
+. I_TIME
+20 I_TIME
+
+8500 B-PRICE
+น่าน B-DEST
+ไป O
+CEI B-START
+4 B_TIME
+. I_TIME
+50 I_TIME
+
+5300 B-PRICE
+NNT B-DEST
+ไป O
+เชียงราย B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+5500 B-PRICE
+NNT B-DEST
+ไป O
+CEI B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+1000 B-PRICE
+น่าน B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+12 B_TIME
+. I_TIME
+30 I_TIME
+
+8600 B-PRICE
+NNT B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+1100 B-PRICE
+น่าน B-DEST
+ไป O
+NNT B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+9300 B-PRICE
+NNT B-DEST
+ไป O
+น่าน B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+5800 B-PRICE
+น่าน B-DEST
+ไป O
+แพร่ B-START
+19 B_TIME
+. I_TIME
+00 I_TIME
+
+6800 B-PRICE
+NNT B-DEST
+ไป O
+แพร่ B-START
+1 B_TIME
+. I_TIME
+20 I_TIME
+
+1400 B-PRICE
+น่าน B-DEST
+ไป O
+ลำปาง B-START
+8 B_TIME
+. I_TIME
+00 I_TIME
+
+8900 B-PRICE
+NNT B-DEST
+ไป O
+ลำปาง B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+7200 B-PRICE
+น่าน B-DEST
+ไป O
+แม่สอด B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+4100 B-PRICE
+NNT B-DEST
+ไป O
+แม่สอด B-START
+9 B_TIME
+. I_TIME
+50 I_TIME
+
+9300 B-PRICE
+น่าน B-DEST
+ไป O
+สุโขทัย B-START
+21 B_TIME
+. I_TIME
+40 I_TIME
+
+9000 B-PRICE
+NNT B-DEST
+ไป O
+สุโขทัย B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+200 B-PRICE
+น่าน B-DEST
+ไป O
+พิษณุโลก B-START
+14 B_TIME
+. I_TIME
+10 I_TIME
+
+7700 B-PRICE
+NNT B-DEST
+ไป O
+พิษณุโลก B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+3000 B-PRICE
+น่าน B-DEST
+ไป O
+อุดรธานี B-START
+12 B_TIME
+. I_TIME
+30 I_TIME
+
+9800 B-PRICE
+NNT B-DEST
+ไป O
+อุดรธานี B-START
+20 B_TIME
+. I_TIME
+10 I_TIME
+
+4000 B-PRICE
+น่าน B-DEST
+ไป O
+นครพนม B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+4900 B-PRICE
+NNT B-DEST
+ไป O
+นครพนม B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+5700 B-PRICE
+น่าน B-DEST
+ไป O
+ขอนเเก่น B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+5900 B-PRICE
+NNT B-DEST
+ไป O
+ขอนเเก่น B-START
+10 B_TIME
+. I_TIME
+00 I_TIME
+
+2800 B-PRICE
+น่าน B-DEST
+ไป O
+ร้อยเอ็ด B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+6400 B-PRICE
+NNT B-DEST
+ไป O
+ร้อยเอ็ด B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+2800 B-PRICE
+น่าน B-DEST
+ไป O
+อุบลราชธานี B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+1800 B-PRICE
+NNT B-DEST
+ไป O
+อุบลราชธานี B-START
+20 B_TIME
+. I_TIME
+40 I_TIME
+
+1900 B-PRICE
+น่าน B-DEST
+ไป O
+สุรินทร์ B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+7400 B-PRICE
+NNT B-DEST
+ไป O
+สุรินทร์ B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+3000 B-PRICE
+น่าน B-DEST
+ไป O
+ระนอง B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+4800 B-PRICE
+NNT B-DEST
+ไป O
+ระนอง B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+8600 B-PRICE
+น่าน B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+16 B_TIME
+. I_TIME
+50 I_TIME
+
+1000 B-PRICE
+NNT B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+8900 B-PRICE
+น่าน B-DEST
+ไป O
+สมุย B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+3400 B-PRICE
+NNT B-DEST
+ไป O
+สมุย B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+7300 B-PRICE
+น่าน B-DEST
+ไป O
+นครศรีธรรมราช B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+8400 B-PRICE
+NNT B-DEST
+ไป O
+นครศรีธรรมราช B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+6500 B-PRICE
+น่าน B-DEST
+ไป O
+ภูเก็ต B-START
+4 B_TIME
+. I_TIME
+50 I_TIME
+
+8300 B-PRICE
+NNT B-DEST
+ไป O
+ภูเก็ต B-START
+16 B_TIME
+. I_TIME
+00 I_TIME
+
+1400 B-PRICE
+น่าน B-DEST
+ไป O
+กระบี่ B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+7300 B-PRICE
+NNT B-DEST
+ไป O
+กระบี่ B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+2500 B-PRICE
+น่าน B-DEST
+ไป O
+ตรัง B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+5300 B-PRICE
+NNT B-DEST
+ไป O
+ตรัง B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+6200 B-PRICE
+น่าน B-DEST
+ไป O
+หาดใหญ่ B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+3500 B-PRICE
+NNT B-DEST
+ไป O
+หาดใหญ่ B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+5200 B-PRICE
+น่าน B-DEST
+ไป O
+นราธิวาส B-START
+19 B_TIME
+. I_TIME
+10 I_TIME
+
+4500 B-PRICE
+NNT B-DEST
+ไป O
+นราธิวาส B-START
+8 B_TIME
+. I_TIME
+40 I_TIME
+
+3800 B-PRICE
+แพร่ B-DEST
+ไป O
+เชียงใหม่ B-START
+12 B_TIME
+. I_TIME
+10 I_TIME
+
+2600 B-PRICE
+แพร่ B-DEST
+ไป O
+BKK B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+7600 B-PRICE
+แพร่ B-DEST
+ไป O
+DMK B-START
+20 B_TIME
+. I_TIME
+40 I_TIME
+
+1200 B-PRICE
+แพร่ B-DEST
+ไป O
+เชียงราย B-START
+10 B_TIME
+. I_TIME
+30 I_TIME
+
+1300 B-PRICE
+แพร่ B-DEST
+ไป O
+CEI B-START
+8 B_TIME
+. I_TIME
+50 I_TIME
+
+8400 B-PRICE
+แพร่ B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+5900 B-PRICE
+แพร่ B-DEST
+ไป O
+น่าน B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+6800 B-PRICE
+แพร่ B-DEST
+ไป O
+NNT B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+3000 B-PRICE
+แพร่ B-DEST
+ไป O
+ลำปาง B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+8400 B-PRICE
+แพร่ B-DEST
+ไป O
+แม่สอด B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+5000 B-PRICE
+แพร่ B-DEST
+ไป O
+สุโขทัย B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+9400 B-PRICE
+แพร่ B-DEST
+ไป O
+พิษณุโลก B-START
+10 B_TIME
+. I_TIME
+50 I_TIME
+
+2000 B-PRICE
+แพร่ B-DEST
+ไป O
+อุดรธานี B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+3100 B-PRICE
+แพร่ B-DEST
+ไป O
+นครพนม B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+5100 B-PRICE
+แพร่ B-DEST
+ไป O
+ขอนเเก่น B-START
+15 B_TIME
+. I_TIME
+40 I_TIME
+
+7000 B-PRICE
+แพร่ B-DEST
+ไป O
+ร้อยเอ็ด B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+500 B-PRICE
+แพร่ B-DEST
+ไป O
+อุบลราชธานี B-START
+8 B_TIME
+. I_TIME
+10 I_TIME
+
+400 B-PRICE
+แพร่ B-DEST
+ไป O
+สุรินทร์ B-START
+7 B_TIME
+. I_TIME
+50 I_TIME
+
+4700 B-PRICE
+แพร่ B-DEST
+ไป O
+ระนอง B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+7100 B-PRICE
+แพร่ B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+5300 B-PRICE
+แพร่ B-DEST
+ไป O
+สมุย B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+7600 B-PRICE
+แพร่ B-DEST
+ไป O
+นครศรีธรรมราช B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+2200 B-PRICE
+แพร่ B-DEST
+ไป O
+ภูเก็ต B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+9500 B-PRICE
+แพร่ B-DEST
+ไป O
+กระบี่ B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+3900 B-PRICE
+แพร่ B-DEST
+ไป O
+ตรัง B-START
+19 B_TIME
+. I_TIME
+00 I_TIME
+
+6400 B-PRICE
+แพร่ B-DEST
+ไป O
+หาดใหญ่ B-START
+13 B_TIME
+. I_TIME
+40 I_TIME
+
+3900 B-PRICE
+แพร่ B-DEST
+ไป O
+นราธิวาส B-START
+5 B_TIME
+. I_TIME
+10 I_TIME
+
+8800 B-PRICE
+ลำปาง B-DEST
+ไป O
+เชียงใหม่ B-START
+8 B_TIME
+. I_TIME
+00 I_TIME
+
+8300 B-PRICE
+ลำปาง B-DEST
+ไป O
+BKK B-START
+24 B_TIME
+. I_TIME
+40 I_TIME
+
+4800 B-PRICE
+ลำปาง B-DEST
+ไป O
+DMK B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+3600 B-PRICE
+ลำปาง B-DEST
+ไป O
+เชียงราย B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+8000 B-PRICE
+ลำปาง B-DEST
+ไป O
+CEI B-START
+10 B_TIME
+. I_TIME
+00 I_TIME
+
+9500 B-PRICE
+ลำปาง B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+6000 B-PRICE
+ลำปาง B-DEST
+ไป O
+น่าน B-START
+12 B_TIME
+. I_TIME
+30 I_TIME
+
+6000 B-PRICE
+ลำปาง B-DEST
+ไป O
+NNT B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+8100 B-PRICE
+ลำปาง B-DEST
+ไป O
+แพร่ B-START
+1 B_TIME
+. I_TIME
+40 I_TIME
+
+1400 B-PRICE
+ลำปาง B-DEST
+ไป O
+แม่สอด B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+300 B-PRICE
+ลำปาง B-DEST
+ไป O
+สุโขทัย B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+4000 B-PRICE
+ลำปาง B-DEST
+ไป O
+พิษณุโลก B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+5500 B-PRICE
+ลำปาง B-DEST
+ไป O
+อุดรธานี B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+7700 B-PRICE
+ลำปาง B-DEST
+ไป O
+นครพนม B-START
+7 B_TIME
+. I_TIME
+30 I_TIME
+
+2200 B-PRICE
+ลำปาง B-DEST
+ไป O
+ขอนเเก่น B-START
+13 B_TIME
+. I_TIME
+50 I_TIME
+
+2200 B-PRICE
+ลำปาง B-DEST
+ไป O
+ร้อยเอ็ด B-START
+14 B_TIME
+. I_TIME
+00 I_TIME
+
+6500 B-PRICE
+ลำปาง B-DEST
+ไป O
+อุบลราชธานี B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+4100 B-PRICE
+ลำปาง B-DEST
+ไป O
+สุรินทร์ B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+1700 B-PRICE
+ลำปาง B-DEST
+ไป O
+ระนอง B-START
+12 B_TIME
+. I_TIME
+10 I_TIME
+
+2800 B-PRICE
+ลำปาง B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+20 B_TIME
+. I_TIME
+10 I_TIME
+
+800 B-PRICE
+ลำปาง B-DEST
+ไป O
+สมุย B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+8600 B-PRICE
+ลำปาง B-DEST
+ไป O
+นครศรีธรรมราช B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+4700 B-PRICE
+ลำปาง B-DEST
+ไป O
+ภูเก็ต B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+2400 B-PRICE
+ลำปาง B-DEST
+ไป O
+กระบี่ B-START
+24 B_TIME
+. I_TIME
+20 I_TIME
+
+6700 B-PRICE
+ลำปาง B-DEST
+ไป O
+ตรัง B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+3800 B-PRICE
+ลำปาง B-DEST
+ไป O
+หาดใหญ่ B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+4900 B-PRICE
+ลำปาง B-DEST
+ไป O
+นราธิวาส B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+8400 B-PRICE
+แม่สอด B-DEST
+ไป O
+เชียงใหม่ B-START
+21 B_TIME
+. I_TIME
+40 I_TIME
+
+9000 B-PRICE
+แม่สอด B-DEST
+ไป O
+BKK B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+7100 B-PRICE
+แม่สอด B-DEST
+ไป O
+DMK B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+4900 B-PRICE
+แม่สอด B-DEST
+ไป O
+เชียงราย B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+3600 B-PRICE
+แม่สอด B-DEST
+ไป O
+CEI B-START
+6 B_TIME
+. I_TIME
+50 I_TIME
+
+7600 B-PRICE
+แม่สอด B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+6 B_TIME
+. I_TIME
+50 I_TIME
+
+5200 B-PRICE
+แม่สอด B-DEST
+ไป O
+น่าน B-START
+1 B_TIME
+. I_TIME
+40 I_TIME
+
+3800 B-PRICE
+แม่สอด B-DEST
+ไป O
+NNT B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+1800 B-PRICE
+แม่สอด B-DEST
+ไป O
+แพร่ B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+6400 B-PRICE
+แม่สอด B-DEST
+ไป O
+ลำปาง B-START
+16 B_TIME
+. I_TIME
+30 I_TIME
+
+5900 B-PRICE
+แม่สอด B-DEST
+ไป O
+สุโขทัย B-START
+5 B_TIME
+. I_TIME
+10 I_TIME
+
+6200 B-PRICE
+แม่สอด B-DEST
+ไป O
+พิษณุโลก B-START
+24 B_TIME
+. I_TIME
+30 I_TIME
+
+5600 B-PRICE
+แม่สอด B-DEST
+ไป O
+อุดรธานี B-START
+21 B_TIME
+. I_TIME
+00 I_TIME
+
+7300 B-PRICE
+แม่สอด B-DEST
+ไป O
+นครพนม B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+8500 B-PRICE
+แม่สอด B-DEST
+ไป O
+ขอนเเก่น B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+5000 B-PRICE
+แม่สอด B-DEST
+ไป O
+ร้อยเอ็ด B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+9400 B-PRICE
+แม่สอด B-DEST
+ไป O
+อุบลราชธานี B-START
+19 B_TIME
+. I_TIME
+40 I_TIME
+
+7600 B-PRICE
+แม่สอด B-DEST
+ไป O
+สุรินทร์ B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+5200 B-PRICE
+แม่สอด B-DEST
+ไป O
+ระนอง B-START
+8 B_TIME
+. I_TIME
+40 I_TIME
+
+9200 B-PRICE
+แม่สอด B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+4200 B-PRICE
+แม่สอด B-DEST
+ไป O
+สมุย B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+300 B-PRICE
+แม่สอด B-DEST
+ไป O
+นครศรีธรรมราช B-START
+19 B_TIME
+. I_TIME
+40 I_TIME
+
+5200 B-PRICE
+แม่สอด B-DEST
+ไป O
+ภูเก็ต B-START
+14 B_TIME
+. I_TIME
+50 I_TIME
+
+6000 B-PRICE
+แม่สอด B-DEST
+ไป O
+กระบี่ B-START
+7 B_TIME
+. I_TIME
+50 I_TIME
+
+5500 B-PRICE
+แม่สอด B-DEST
+ไป O
+ตรัง B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+5300 B-PRICE
+แม่สอด B-DEST
+ไป O
+หาดใหญ่ B-START
+14 B_TIME
+. I_TIME
+30 I_TIME
+
+7900 B-PRICE
+แม่สอด B-DEST
+ไป O
+นราธิวาส B-START
+24 B_TIME
+. I_TIME
+40 I_TIME
+
+3300 B-PRICE
+สุโขทัย B-DEST
+ไป O
+เชียงใหม่ B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+100 B-PRICE
+สุโขทัย B-DEST
+ไป O
+BKK B-START
+8 B_TIME
+. I_TIME
+50 I_TIME
+
+9700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+DMK B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+4400 B-PRICE
+สุโขทัย B-DEST
+ไป O
+เชียงราย B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+4600 B-PRICE
+สุโขทัย B-DEST
+ไป O
+CEI B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+2700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+5600 B-PRICE
+สุโขทัย B-DEST
+ไป O
+น่าน B-START
+10 B_TIME
+. I_TIME
+40 I_TIME
+
+4000 B-PRICE
+สุโขทัย B-DEST
+ไป O
+NNT B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+2400 B-PRICE
+สุโขทัย B-DEST
+ไป O
+แพร่ B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+3900 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ลำปาง B-START
+12 B_TIME
+. I_TIME
+50 I_TIME
+
+8000 B-PRICE
+สุโขทัย B-DEST
+ไป O
+แม่สอด B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+5200 B-PRICE
+สุโขทัย B-DEST
+ไป O
+พิษณุโลก B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+1700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+อุดรธานี B-START
+10 B_TIME
+. I_TIME
+20 I_TIME
+
+8100 B-PRICE
+สุโขทัย B-DEST
+ไป O
+นครพนม B-START
+10 B_TIME
+. I_TIME
+30 I_TIME
+
+1300 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ขอนเเก่น B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+1200 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ร้อยเอ็ด B-START
+18 B_TIME
+. I_TIME
+20 I_TIME
+
+7600 B-PRICE
+สุโขทัย B-DEST
+ไป O
+อุบลราชธานี B-START
+4 B_TIME
+. I_TIME
+20 I_TIME
+
+4500 B-PRICE
+สุโขทัย B-DEST
+ไป O
+สุรินทร์ B-START
+10 B_TIME
+. I_TIME
+00 I_TIME
+
+9600 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ระนอง B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+2000 B-PRICE
+สุโขทัย B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+5000 B-PRICE
+สุโขทัย B-DEST
+ไป O
+สมุย B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+2200 B-PRICE
+สุโขทัย B-DEST
+ไป O
+นครศรีธรรมราช B-START
+15 B_TIME
+. I_TIME
+30 I_TIME
+
+3400 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ภูเก็ต B-START
+14 B_TIME
+. I_TIME
+10 I_TIME
+
+4700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+กระบี่ B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+8700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+ตรัง B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+3300 B-PRICE
+สุโขทัย B-DEST
+ไป O
+หาดใหญ่ B-START
+10 B_TIME
+. I_TIME
+20 I_TIME
+
+6700 B-PRICE
+สุโขทัย B-DEST
+ไป O
+นราธิวาส B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+6700 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+เชียงใหม่ B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+6900 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+BKK B-START
+8 B_TIME
+. I_TIME
+40 I_TIME
+
+2500 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+DMK B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+900 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+เชียงราย B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+7900 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+CEI B-START
+16 B_TIME
+. I_TIME
+20 I_TIME
+
+6000 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+2900 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+น่าน B-START
+24 B_TIME
+. I_TIME
+20 I_TIME
+
+2600 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+NNT B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+300 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+แพร่ B-START
+2 B_TIME
+. I_TIME
+50 I_TIME
+
+100 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ลำปาง B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+7600 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+แม่สอด B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+8200 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+สุโขทัย B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+8700 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+อุดรธานี B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+8600 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+นครพนม B-START
+4 B_TIME
+. I_TIME
+40 I_TIME
+
+7300 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ขอนเเก่น B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+6700 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ร้อยเอ็ด B-START
+23 B_TIME
+. I_TIME
+50 I_TIME
+
+7100 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+อุบลราชธานี B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+2200 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+สุรินทร์ B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+7000 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ระนอง B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+9400 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+9 B_TIME
+. I_TIME
+30 I_TIME
+
+8600 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+สมุย B-START
+10 B_TIME
+. I_TIME
+50 I_TIME
+
+1700 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+นครศรีธรรมราช B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+1800 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ภูเก็ต B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+7700 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+กระบี่ B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+8100 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+ตรัง B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+8600 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+หาดใหญ่ B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+8300 B-PRICE
+พิษณุโลก B-DEST
+ไป O
+นราธิวาส B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+8100 B-PRICE
+อุดรธานี B-DEST
+ไป O
+เชียงใหม่ B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+9700 B-PRICE
+อุดรธานี B-DEST
+ไป O
+BKK B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+4400 B-PRICE
+อุดรธานี B-DEST
+ไป O
+DMK B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+9000 B-PRICE
+อุดรธานี B-DEST
+ไป O
+เชียงราย B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+3100 B-PRICE
+อุดรธานี B-DEST
+ไป O
+CEI B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+2600 B-PRICE
+อุดรธานี B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+9500 B-PRICE
+อุดรธานี B-DEST
+ไป O
+น่าน B-START
+20 B_TIME
+. I_TIME
+40 I_TIME
+
+3100 B-PRICE
+อุดรธานี B-DEST
+ไป O
+NNT B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+5600 B-PRICE
+อุดรธานี B-DEST
+ไป O
+แพร่ B-START
+13 B_TIME
+. I_TIME
+50 I_TIME
+
+1800 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ลำปาง B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+5200 B-PRICE
+อุดรธานี B-DEST
+ไป O
+แม่สอด B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+8800 B-PRICE
+อุดรธานี B-DEST
+ไป O
+สุโขทัย B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+1600 B-PRICE
+อุดรธานี B-DEST
+ไป O
+พิษณุโลก B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+8300 B-PRICE
+อุดรธานี B-DEST
+ไป O
+นครพนม B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+9600 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ขอนเเก่น B-START
+5 B_TIME
+. I_TIME
+00 I_TIME
+
+9800 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ร้อยเอ็ด B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+1300 B-PRICE
+อุดรธานี B-DEST
+ไป O
+อุบลราชธานี B-START
+17 B_TIME
+. I_TIME
+30 I_TIME
+
+5500 B-PRICE
+อุดรธานี B-DEST
+ไป O
+สุรินทร์ B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+3000 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ระนอง B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+7800 B-PRICE
+อุดรธานี B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+6200 B-PRICE
+อุดรธานี B-DEST
+ไป O
+สมุย B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+7700 B-PRICE
+อุดรธานี B-DEST
+ไป O
+นครศรีธรรมราช B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+6300 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ภูเก็ต B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+5300 B-PRICE
+อุดรธานี B-DEST
+ไป O
+กระบี่ B-START
+3 B_TIME
+. I_TIME
+10 I_TIME
+
+8200 B-PRICE
+อุดรธานี B-DEST
+ไป O
+ตรัง B-START
+10 B_TIME
+. I_TIME
+00 I_TIME
+
+2800 B-PRICE
+อุดรธานี B-DEST
+ไป O
+หาดใหญ่ B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+5100 B-PRICE
+อุดรธานี B-DEST
+ไป O
+นราธิวาส B-START
+7 B_TIME
+. I_TIME
+00 I_TIME
+
+5300 B-PRICE
+นครพนม B-DEST
+ไป O
+เชียงใหม่ B-START
+17 B_TIME
+. I_TIME
+50 I_TIME
+
+2900 B-PRICE
+นครพนม B-DEST
+ไป O
+BKK B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+100 B-PRICE
+นครพนม B-DEST
+ไป O
+DMK B-START
+2 B_TIME
+. I_TIME
+10 I_TIME
+
+5500 B-PRICE
+นครพนม B-DEST
+ไป O
+เชียงราย B-START
+18 B_TIME
+. I_TIME
+40 I_TIME
+
+100 B-PRICE
+นครพนม B-DEST
+ไป O
+CEI B-START
+16 B_TIME
+. I_TIME
+10 I_TIME
+
+2400 B-PRICE
+นครพนม B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+7800 B-PRICE
+นครพนม B-DEST
+ไป O
+น่าน B-START
+19 B_TIME
+. I_TIME
+10 I_TIME
+
+8500 B-PRICE
+นครพนม B-DEST
+ไป O
+NNT B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+8600 B-PRICE
+นครพนม B-DEST
+ไป O
+แพร่ B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+5900 B-PRICE
+นครพนม B-DEST
+ไป O
+ลำปาง B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+4500 B-PRICE
+นครพนม B-DEST
+ไป O
+แม่สอด B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+7000 B-PRICE
+นครพนม B-DEST
+ไป O
+สุโขทัย B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+1500 B-PRICE
+นครพนม B-DEST
+ไป O
+พิษณุโลก B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+6300 B-PRICE
+นครพนม B-DEST
+ไป O
+อุดรธานี B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+1100 B-PRICE
+นครพนม B-DEST
+ไป O
+ขอนเเก่น B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+4500 B-PRICE
+นครพนม B-DEST
+ไป O
+ร้อยเอ็ด B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+4200 B-PRICE
+นครพนม B-DEST
+ไป O
+อุบลราชธานี B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+7100 B-PRICE
+นครพนม B-DEST
+ไป O
+สุรินทร์ B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+7000 B-PRICE
+นครพนม B-DEST
+ไป O
+ระนอง B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+9000 B-PRICE
+นครพนม B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+4 B_TIME
+. I_TIME
+00 I_TIME
+
+6100 B-PRICE
+นครพนม B-DEST
+ไป O
+สมุย B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+6500 B-PRICE
+นครพนม B-DEST
+ไป O
+นครศรีธรรมราช B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+2900 B-PRICE
+นครพนม B-DEST
+ไป O
+ภูเก็ต B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+1300 B-PRICE
+นครพนม B-DEST
+ไป O
+กระบี่ B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+9500 B-PRICE
+นครพนม B-DEST
+ไป O
+ตรัง B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+2100 B-PRICE
+นครพนม B-DEST
+ไป O
+หาดใหญ่ B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+3500 B-PRICE
+นครพนม B-DEST
+ไป O
+นราธิวาส B-START
+19 B_TIME
+. I_TIME
+40 I_TIME
+
+7600 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+เชียงใหม่ B-START
+8 B_TIME
+. I_TIME
+30 I_TIME
+
+2100 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+BKK B-START
+14 B_TIME
+. I_TIME
+00 I_TIME
+
+3900 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+DMK B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+7700 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+เชียงราย B-START
+1 B_TIME
+. I_TIME
+10 I_TIME
+
+4800 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+CEI B-START
+4 B_TIME
+. I_TIME
+10 I_TIME
+
+500 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+5000 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+น่าน B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+1100 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+NNT B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+3300 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+แพร่ B-START
+13 B_TIME
+. I_TIME
+40 I_TIME
+
+6300 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+ลำปาง B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+9700 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+แม่สอด B-START
+2 B_TIME
+. I_TIME
+00 I_TIME
+
+3000 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+สุโขทัย B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+2200 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+พิษณุโลก B-START
+10 B_TIME
+. I_TIME
+40 I_TIME
+
+6900 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+อุดรธานี B-START
+22 B_TIME
+. I_TIME
+20 I_TIME
+
+7300 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+นครพนม B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+4800 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+ร้อยเอ็ด B-START
+1 B_TIME
+. I_TIME
+40 I_TIME
+
+5800 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+อุบลราชธานี B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+8300 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+สุรินทร์ B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+1000 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+ระนอง B-START
+12 B_TIME
+. I_TIME
+40 I_TIME
+
+3600 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+100 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+สมุย B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+700 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+นครศรีธรรมราช B-START
+22 B_TIME
+. I_TIME
+00 I_TIME
+
+3700 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+ภูเก็ต B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+3500 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+กระบี่ B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+6900 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+ตรัง B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+1800 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+หาดใหญ่ B-START
+9 B_TIME
+. I_TIME
+50 I_TIME
+
+8100 B-PRICE
+ขอนเเก่น B-DEST
+ไป O
+นราธิวาส B-START
+16 B_TIME
+. I_TIME
+50 I_TIME
+
+6300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+เชียงใหม่ B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+3700 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+BKK B-START
+2 B_TIME
+. I_TIME
+20 I_TIME
+
+8300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+DMK B-START
+22 B_TIME
+. I_TIME
+00 I_TIME
+
+7300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+เชียงราย B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+7700 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+CEI B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+9000 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+23 B_TIME
+. I_TIME
+50 I_TIME
+
+6300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+น่าน B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+8100 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+NNT B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+9800 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+แพร่ B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+9600 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+ลำปาง B-START
+23 B_TIME
+. I_TIME
+50 I_TIME
+
+5300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+แม่สอด B-START
+9 B_TIME
+. I_TIME
+10 I_TIME
+
+3300 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+สุโขทัย B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+8200 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+พิษณุโลก B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+2600 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+อุดรธานี B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+8800 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+นครพนม B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+8000 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+ขอนเเก่น B-START
+7 B_TIME
+. I_TIME
+10 I_TIME
+
+2100 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+อุบลราชธานี B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+2800 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+สุรินทร์ B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+6900 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+ระนอง B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+1400 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+20 B_TIME
+. I_TIME
+10 I_TIME
+
+1400 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+สมุย B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+5600 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+นครศรีธรรมราช B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+2000 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+ภูเก็ต B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+5200 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+กระบี่ B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+5400 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+ตรัง B-START
+12 B_TIME
+. I_TIME
+10 I_TIME
+
+1000 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+หาดใหญ่ B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+6200 B-PRICE
+ร้อยเอ็ด B-DEST
+ไป O
+นราธิวาส B-START
+5 B_TIME
+. I_TIME
+00 I_TIME
+
+7400 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+เชียงใหม่ B-START
+18 B_TIME
+. I_TIME
+40 I_TIME
+
+3600 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+BKK B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+1400 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+DMK B-START
+18 B_TIME
+. I_TIME
+50 I_TIME
+
+3200 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+เชียงราย B-START
+8 B_TIME
+. I_TIME
+30 I_TIME
+
+3500 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+CEI B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+3200 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+22 B_TIME
+. I_TIME
+00 I_TIME
+
+4400 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+น่าน B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+500 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+NNT B-START
+9 B_TIME
+. I_TIME
+20 I_TIME
+
+1700 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+แพร่ B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+1300 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ลำปาง B-START
+20 B_TIME
+. I_TIME
+10 I_TIME
+
+3600 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+แม่สอด B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+7700 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+สุโขทัย B-START
+7 B_TIME
+. I_TIME
+20 I_TIME
+
+2800 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+พิษณุโลก B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+1000 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+อุดรธานี B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+300 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+นครพนม B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+3500 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ขอนเเก่น B-START
+3 B_TIME
+. I_TIME
+40 I_TIME
+
+3100 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ร้อยเอ็ด B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+5000 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+สุรินทร์ B-START
+15 B_TIME
+. I_TIME
+40 I_TIME
+
+5000 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ระนอง B-START
+23 B_TIME
+. I_TIME
+50 I_TIME
+
+800 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+3000 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+สมุย B-START
+11 B_TIME
+. I_TIME
+40 I_TIME
+
+200 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+นครศรีธรรมราช B-START
+2 B_TIME
+. I_TIME
+00 I_TIME
+
+6300 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ภูเก็ต B-START
+4 B_TIME
+. I_TIME
+30 I_TIME
+
+1500 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+กระบี่ B-START
+11 B_TIME
+. I_TIME
+00 I_TIME
+
+8300 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+ตรัง B-START
+1 B_TIME
+. I_TIME
+20 I_TIME
+
+3100 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+หาดใหญ่ B-START
+23 B_TIME
+. I_TIME
+00 I_TIME
+
+8000 B-PRICE
+อุบลราชธานี B-DEST
+ไป O
+นราธิวาส B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+7200 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+เชียงใหม่ B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+1300 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+BKK B-START
+22 B_TIME
+. I_TIME
+00 I_TIME
+
+7700 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+DMK B-START
+0 B_TIME
+. I_TIME
+00 I_TIME
+
+6700 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+เชียงราย B-START
+22 B_TIME
+. I_TIME
+40 I_TIME
+
+9400 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+CEI B-START
+19 B_TIME
+. I_TIME
+40 I_TIME
+
+8300 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+9 B_TIME
+. I_TIME
+30 I_TIME
+
+4400 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+น่าน B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+2000 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+NNT B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+1700 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+แพร่ B-START
+9 B_TIME
+. I_TIME
+30 I_TIME
+
+5800 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ลำปาง B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+8800 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+แม่สอด B-START
+9 B_TIME
+. I_TIME
+10 I_TIME
+
+1100 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+สุโขทัย B-START
+5 B_TIME
+. I_TIME
+50 I_TIME
+
+2900 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+พิษณุโลก B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+2200 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+อุดรธานี B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+6800 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+นครพนม B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+8200 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ขอนเเก่น B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+1000 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ร้อยเอ็ด B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+2100 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+อุบลราชธานี B-START
+22 B_TIME
+. I_TIME
+20 I_TIME
+
+5100 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ระนอง B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+7400 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+5500 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+สมุย B-START
+9 B_TIME
+. I_TIME
+20 I_TIME
+
+2400 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+นครศรีธรรมราช B-START
+8 B_TIME
+. I_TIME
+30 I_TIME
+
+4100 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ภูเก็ต B-START
+18 B_TIME
+. I_TIME
+00 I_TIME
+
+1600 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+กระบี่ B-START
+6 B_TIME
+. I_TIME
+50 I_TIME
+
+5300 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+ตรัง B-START
+12 B_TIME
+. I_TIME
+30 I_TIME
+
+900 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+หาดใหญ่ B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+600 B-PRICE
+สุรินทร์ B-DEST
+ไป O
+นราธิวาส B-START
+17 B_TIME
+. I_TIME
+20 I_TIME
+
+7100 B-PRICE
+ระนอง B-DEST
+ไป O
+เชียงใหม่ B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+1900 B-PRICE
+ระนอง B-DEST
+ไป O
+BKK B-START
+0 B_TIME
+. I_TIME
+10 I_TIME
+
+8000 B-PRICE
+ระนอง B-DEST
+ไป O
+DMK B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+6400 B-PRICE
+ระนอง B-DEST
+ไป O
+เชียงราย B-START
+1 B_TIME
+. I_TIME
+40 I_TIME
+
+5000 B-PRICE
+ระนอง B-DEST
+ไป O
+CEI B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+1600 B-PRICE
+ระนอง B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+4100 B-PRICE
+ระนอง B-DEST
+ไป O
+น่าน B-START
+4 B_TIME
+. I_TIME
+50 I_TIME
+
+9600 B-PRICE
+ระนอง B-DEST
+ไป O
+NNT B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+5800 B-PRICE
+ระนอง B-DEST
+ไป O
+แพร่ B-START
+9 B_TIME
+. I_TIME
+20 I_TIME
+
+6400 B-PRICE
+ระนอง B-DEST
+ไป O
+ลำปาง B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+3200 B-PRICE
+ระนอง B-DEST
+ไป O
+แม่สอด B-START
+12 B_TIME
+. I_TIME
+40 I_TIME
+
+9800 B-PRICE
+ระนอง B-DEST
+ไป O
+สุโขทัย B-START
+0 B_TIME
+. I_TIME
+30 I_TIME
+
+5300 B-PRICE
+ระนอง B-DEST
+ไป O
+พิษณุโลก B-START
+19 B_TIME
+. I_TIME
+40 I_TIME
+
+3800 B-PRICE
+ระนอง B-DEST
+ไป O
+อุดรธานี B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+2100 B-PRICE
+ระนอง B-DEST
+ไป O
+นครพนม B-START
+13 B_TIME
+. I_TIME
+30 I_TIME
+
+7200 B-PRICE
+ระนอง B-DEST
+ไป O
+ขอนเเก่น B-START
+17 B_TIME
+. I_TIME
+10 I_TIME
+
+4100 B-PRICE
+ระนอง B-DEST
+ไป O
+ร้อยเอ็ด B-START
+16 B_TIME
+. I_TIME
+10 I_TIME
+
+5500 B-PRICE
+ระนอง B-DEST
+ไป O
+อุบลราชธานี B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+100 B-PRICE
+ระนอง B-DEST
+ไป O
+สุรินทร์ B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+5600 B-PRICE
+ระนอง B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+7500 B-PRICE
+ระนอง B-DEST
+ไป O
+สมุย B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+2500 B-PRICE
+ระนอง B-DEST
+ไป O
+นครศรีธรรมราช B-START
+4 B_TIME
+. I_TIME
+20 I_TIME
+
+8300 B-PRICE
+ระนอง B-DEST
+ไป O
+ภูเก็ต B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+2700 B-PRICE
+ระนอง B-DEST
+ไป O
+กระบี่ B-START
+12 B_TIME
+. I_TIME
+30 I_TIME
+
+9800 B-PRICE
+ระนอง B-DEST
+ไป O
+ตรัง B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+4200 B-PRICE
+ระนอง B-DEST
+ไป O
+หาดใหญ่ B-START
+6 B_TIME
+. I_TIME
+10 I_TIME
+
+700 B-PRICE
+ระนอง B-DEST
+ไป O
+นราธิวาส B-START
+4 B_TIME
+. I_TIME
+00 I_TIME
+
+8300 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+เชียงใหม่ B-START
+23 B_TIME
+. I_TIME
+30 I_TIME
+
+3800 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+BKK B-START
+10 B_TIME
+. I_TIME
+40 I_TIME
+
+3500 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+DMK B-START
+0 B_TIME
+. I_TIME
+10 I_TIME
+
+3100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+เชียงราย B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+7700 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+CEI B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+3100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+23 B_TIME
+. I_TIME
+20 I_TIME
+
+100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+น่าน B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+5500 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+NNT B-START
+8 B_TIME
+. I_TIME
+30 I_TIME
+
+6200 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+แพร่ B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+4500 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ลำปาง B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+4200 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+แม่สอด B-START
+17 B_TIME
+. I_TIME
+30 I_TIME
+
+400 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+สุโขทัย B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+พิษณุโลก B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+1300 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+อุดรธานี B-START
+8 B_TIME
+. I_TIME
+00 I_TIME
+
+1800 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+นครพนม B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+3200 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ขอนเเก่น B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+9800 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ร้อยเอ็ด B-START
+1 B_TIME
+. I_TIME
+10 I_TIME
+
+7300 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+อุบลราชธานี B-START
+8 B_TIME
+. I_TIME
+30 I_TIME
+
+7100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+สุรินทร์ B-START
+2 B_TIME
+. I_TIME
+40 I_TIME
+
+9700 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ระนอง B-START
+19 B_TIME
+. I_TIME
+20 I_TIME
+
+5400 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+สมุย B-START
+8 B_TIME
+. I_TIME
+40 I_TIME
+
+5100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+นครศรีธรรมราช B-START
+24 B_TIME
+. I_TIME
+30 I_TIME
+
+6100 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ภูเก็ต B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+2200 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+กระบี่ B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+9600 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+ตรัง B-START
+3 B_TIME
+. I_TIME
+40 I_TIME
+
+3300 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+หาดใหญ่ B-START
+11 B_TIME
+. I_TIME
+30 I_TIME
+
+9000 B-PRICE
+สุราษฎร์ธานี B-DEST
+ไป O
+นราธิวาส B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+7800 B-PRICE
+สมุย B-DEST
+ไป O
+เชียงใหม่ B-START
+22 B_TIME
+. I_TIME
+30 I_TIME
+
+4900 B-PRICE
+สมุย B-DEST
+ไป O
+BKK B-START
+9 B_TIME
+. I_TIME
+00 I_TIME
+
+3200 B-PRICE
+สมุย B-DEST
+ไป O
+DMK B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+2000 B-PRICE
+สมุย B-DEST
+ไป O
+เชียงราย B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+1300 B-PRICE
+สมุย B-DEST
+ไป O
+CEI B-START
+7 B_TIME
+. I_TIME
+10 I_TIME
+
+6100 B-PRICE
+สมุย B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+7 B_TIME
+. I_TIME
+50 I_TIME
+
+6900 B-PRICE
+สมุย B-DEST
+ไป O
+น่าน B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+3100 B-PRICE
+สมุย B-DEST
+ไป O
+NNT B-START
+3 B_TIME
+. I_TIME
+30 I_TIME
+
+2600 B-PRICE
+สมุย B-DEST
+ไป O
+แพร่ B-START
+19 B_TIME
+. I_TIME
+00 I_TIME
+
+1000 B-PRICE
+สมุย B-DEST
+ไป O
+ลำปาง B-START
+3 B_TIME
+. I_TIME
+00 I_TIME
+
+1300 B-PRICE
+สมุย B-DEST
+ไป O
+แม่สอด B-START
+13 B_TIME
+. I_TIME
+40 I_TIME
+
+3200 B-PRICE
+สมุย B-DEST
+ไป O
+สุโขทัย B-START
+4 B_TIME
+. I_TIME
+20 I_TIME
+
+2900 B-PRICE
+สมุย B-DEST
+ไป O
+พิษณุโลก B-START
+12 B_TIME
+. I_TIME
+20 I_TIME
+
+8000 B-PRICE
+สมุย B-DEST
+ไป O
+อุดรธานี B-START
+24 B_TIME
+. I_TIME
+20 I_TIME
+
+3500 B-PRICE
+สมุย B-DEST
+ไป O
+นครพนม B-START
+15 B_TIME
+. I_TIME
+00 I_TIME
+
+1300 B-PRICE
+สมุย B-DEST
+ไป O
+ขอนเเก่น B-START
+8 B_TIME
+. I_TIME
+10 I_TIME
+
+8000 B-PRICE
+สมุย B-DEST
+ไป O
+ร้อยเอ็ด B-START
+12 B_TIME
+. I_TIME
+40 I_TIME
+
+5500 B-PRICE
+สมุย B-DEST
+ไป O
+อุบลราชธานี B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+6500 B-PRICE
+สมุย B-DEST
+ไป O
+สุรินทร์ B-START
+18 B_TIME
+. I_TIME
+20 I_TIME
+
+5600 B-PRICE
+สมุย B-DEST
+ไป O
+ระนอง B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+900 B-PRICE
+สมุย B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+18 B_TIME
+. I_TIME
+20 I_TIME
+
+2900 B-PRICE
+สมุย B-DEST
+ไป O
+นครศรีธรรมราช B-START
+7 B_TIME
+. I_TIME
+10 I_TIME
+
+8000 B-PRICE
+สมุย B-DEST
+ไป O
+ภูเก็ต B-START
+18 B_TIME
+. I_TIME
+40 I_TIME
+
+3800 B-PRICE
+สมุย B-DEST
+ไป O
+กระบี่ B-START
+14 B_TIME
+. I_TIME
+00 I_TIME
+
+4200 B-PRICE
+สมุย B-DEST
+ไป O
+ตรัง B-START
+20 B_TIME
+. I_TIME
+00 I_TIME
+
+6500 B-PRICE
+สมุย B-DEST
+ไป O
+หาดใหญ่ B-START
+14 B_TIME
+. I_TIME
+40 I_TIME
+
+4300 B-PRICE
+สมุย B-DEST
+ไป O
+นราธิวาส B-START
+0 B_TIME
+. I_TIME
+10 I_TIME
+
+5500 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+เชียงใหม่ B-START
+1 B_TIME
+. I_TIME
+10 I_TIME
+
+5800 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+BKK B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+600 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+DMK B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+8900 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+เชียงราย B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+9100 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+CEI B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+6400 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+17 B_TIME
+. I_TIME
+40 I_TIME
+
+3200 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+น่าน B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+9600 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+NNT B-START
+7 B_TIME
+. I_TIME
+00 I_TIME
+
+8400 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+แพร่ B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+8900 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ลำปาง B-START
+9 B_TIME
+. I_TIME
+20 I_TIME
+
+3100 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+แม่สอด B-START
+5 B_TIME
+. I_TIME
+00 I_TIME
+
+2700 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+สุโขทัย B-START
+0 B_TIME
+. I_TIME
+10 I_TIME
+
+7400 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+พิษณุโลก B-START
+2 B_TIME
+. I_TIME
+00 I_TIME
+
+1600 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+อุดรธานี B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+1500 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+นครพนม B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+9300 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ขอนเเก่น B-START
+22 B_TIME
+. I_TIME
+40 I_TIME
+
+3500 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ร้อยเอ็ด B-START
+20 B_TIME
+. I_TIME
+30 I_TIME
+
+9300 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+อุบลราชธานี B-START
+11 B_TIME
+. I_TIME
+40 I_TIME
+
+4900 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+สุรินทร์ B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+5900 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ระนอง B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+5700 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+21 B_TIME
+. I_TIME
+40 I_TIME
+
+5600 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+สมุย B-START
+17 B_TIME
+. I_TIME
+30 I_TIME
+
+1000 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ภูเก็ต B-START
+11 B_TIME
+. I_TIME
+20 I_TIME
+
+8600 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+กระบี่ B-START
+5 B_TIME
+. I_TIME
+20 I_TIME
+
+8800 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+ตรัง B-START
+2 B_TIME
+. I_TIME
+10 I_TIME
+
+8300 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+หาดใหญ่ B-START
+2 B_TIME
+. I_TIME
+50 I_TIME
+
+9800 B-PRICE
+นครศรีธรรมราช B-DEST
+ไป O
+นราธิวาส B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+4500 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+เชียงใหม่ B-START
+3 B_TIME
+. I_TIME
+10 I_TIME
+
+3900 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+BKK B-START
+13 B_TIME
+. I_TIME
+00 I_TIME
+
+1700 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+DMK B-START
+12 B_TIME
+. I_TIME
+50 I_TIME
+
+3700 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+เชียงราย B-START
+17 B_TIME
+. I_TIME
+30 I_TIME
+
+9800 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+CEI B-START
+7 B_TIME
+. I_TIME
+20 I_TIME
+
+1400 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+6 B_TIME
+. I_TIME
+20 I_TIME
+
+6000 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+น่าน B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+9200 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+NNT B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+8000 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+แพร่ B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+6700 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+ลำปาง B-START
+24 B_TIME
+. I_TIME
+30 I_TIME
+
+6100 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+แม่สอด B-START
+10 B_TIME
+. I_TIME
+50 I_TIME
+
+5000 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+สุโขทัย B-START
+4 B_TIME
+. I_TIME
+10 I_TIME
+
+2900 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+พิษณุโลก B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+900 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+อุดรธานี B-START
+14 B_TIME
+. I_TIME
+00 I_TIME
+
+1100 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+นครพนม B-START
+15 B_TIME
+. I_TIME
+50 I_TIME
+
+5100 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+ขอนเเก่น B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+4800 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+ร้อยเอ็ด B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+8300 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+อุบลราชธานี B-START
+7 B_TIME
+. I_TIME
+20 I_TIME
+
+1100 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+สุรินทร์ B-START
+7 B_TIME
+. I_TIME
+40 I_TIME
+
+6400 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+ระนอง B-START
+16 B_TIME
+. I_TIME
+30 I_TIME
+
+6000 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+18 B_TIME
+. I_TIME
+30 I_TIME
+
+3000 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+สมุย B-START
+2 B_TIME
+. I_TIME
+10 I_TIME
+
+6800 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+นครศรีธรรมราช B-START
+21 B_TIME
+. I_TIME
+00 I_TIME
+
+2100 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+กระบี่ B-START
+1 B_TIME
+. I_TIME
+20 I_TIME
+
+4400 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+ตรัง B-START
+21 B_TIME
+. I_TIME
+50 I_TIME
+
+6400 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+หาดใหญ่ B-START
+23 B_TIME
+. I_TIME
+00 I_TIME
+
+200 B-PRICE
+ภูเก็ต B-DEST
+ไป O
+นราธิวาส B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+5100 B-PRICE
+กระบี่ B-DEST
+ไป O
+เชียงใหม่ B-START
+21 B_TIME
+. I_TIME
+40 I_TIME
+
+600 B-PRICE
+กระบี่ B-DEST
+ไป O
+BKK B-START
+19 B_TIME
+. I_TIME
+10 I_TIME
+
+3500 B-PRICE
+กระบี่ B-DEST
+ไป O
+DMK B-START
+22 B_TIME
+. I_TIME
+20 I_TIME
+
+5500 B-PRICE
+กระบี่ B-DEST
+ไป O
+เชียงราย B-START
+24 B_TIME
+. I_TIME
+10 I_TIME
+
+8800 B-PRICE
+กระบี่ B-DEST
+ไป O
+CEI B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+4700 B-PRICE
+กระบี่ B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+20 B_TIME
+. I_TIME
+50 I_TIME
+
+8400 B-PRICE
+กระบี่ B-DEST
+ไป O
+น่าน B-START
+21 B_TIME
+. I_TIME
+10 I_TIME
+
+9400 B-PRICE
+กระบี่ B-DEST
+ไป O
+NNT B-START
+5 B_TIME
+. I_TIME
+40 I_TIME
+
+1500 B-PRICE
+กระบี่ B-DEST
+ไป O
+แพร่ B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+7300 B-PRICE
+กระบี่ B-DEST
+ไป O
+ลำปาง B-START
+18 B_TIME
+. I_TIME
+10 I_TIME
+
+3700 B-PRICE
+กระบี่ B-DEST
+ไป O
+แม่สอด B-START
+15 B_TIME
+. I_TIME
+20 I_TIME
+
+7900 B-PRICE
+กระบี่ B-DEST
+ไป O
+สุโขทัย B-START
+5 B_TIME
+. I_TIME
+20 I_TIME
+
+3000 B-PRICE
+กระบี่ B-DEST
+ไป O
+พิษณุโลก B-START
+3 B_TIME
+. I_TIME
+10 I_TIME
+
+9700 B-PRICE
+กระบี่ B-DEST
+ไป O
+อุดรธานี B-START
+7 B_TIME
+. I_TIME
+10 I_TIME
+
+5100 B-PRICE
+กระบี่ B-DEST
+ไป O
+นครพนม B-START
+6 B_TIME
+. I_TIME
+30 I_TIME
+
+5600 B-PRICE
+กระบี่ B-DEST
+ไป O
+ขอนเเก่น B-START
+5 B_TIME
+. I_TIME
+10 I_TIME
+
+7700 B-PRICE
+กระบี่ B-DEST
+ไป O
+ร้อยเอ็ด B-START
+16 B_TIME
+. I_TIME
+50 I_TIME
+
+6700 B-PRICE
+กระบี่ B-DEST
+ไป O
+อุบลราชธานี B-START
+4 B_TIME
+. I_TIME
+00 I_TIME
+
+2100 B-PRICE
+กระบี่ B-DEST
+ไป O
+สุรินทร์ B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+5100 B-PRICE
+กระบี่ B-DEST
+ไป O
+ระนอง B-START
+3 B_TIME
+. I_TIME
+50 I_TIME
+
+5700 B-PRICE
+กระบี่ B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+1000 B-PRICE
+กระบี่ B-DEST
+ไป O
+สมุย B-START
+22 B_TIME
+. I_TIME
+10 I_TIME
+
+8900 B-PRICE
+กระบี่ B-DEST
+ไป O
+นครศรีธรรมราช B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+300 B-PRICE
+กระบี่ B-DEST
+ไป O
+ภูเก็ต B-START
+2 B_TIME
+. I_TIME
+50 I_TIME
+
+6100 B-PRICE
+กระบี่ B-DEST
+ไป O
+ตรัง B-START
+4 B_TIME
+. I_TIME
+10 I_TIME
+
+400 B-PRICE
+กระบี่ B-DEST
+ไป O
+หาดใหญ่ B-START
+2 B_TIME
+. I_TIME
+00 I_TIME
+
+2500 B-PRICE
+กระบี่ B-DEST
+ไป O
+นราธิวาส B-START
+5 B_TIME
+. I_TIME
+30 I_TIME
+
+1400 B-PRICE
+ตรัง B-DEST
+ไป O
+เชียงใหม่ B-START
+13 B_TIME
+. I_TIME
+20 I_TIME
+
+8500 B-PRICE
+ตรัง B-DEST
+ไป O
+BKK B-START
+3 B_TIME
+. I_TIME
+20 I_TIME
+
+2300 B-PRICE
+ตรัง B-DEST
+ไป O
+DMK B-START
+8 B_TIME
+. I_TIME
+00 I_TIME
+
+2700 B-PRICE
+ตรัง B-DEST
+ไป O
+เชียงราย B-START
+22 B_TIME
+. I_TIME
+50 I_TIME
+
+4000 B-PRICE
+ตรัง B-DEST
+ไป O
+CEI B-START
+8 B_TIME
+. I_TIME
+20 I_TIME
+
+4600 B-PRICE
+ตรัง B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+7 B_TIME
+. I_TIME
+00 I_TIME
+
+2700 B-PRICE
+ตรัง B-DEST
+ไป O
+น่าน B-START
+12 B_TIME
+. I_TIME
+00 I_TIME
+
+2900 B-PRICE
+ตรัง B-DEST
+ไป O
+NNT B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+100 B-PRICE
+ตรัง B-DEST
+ไป O
+แพร่ B-START
+4 B_TIME
+. I_TIME
+00 I_TIME
+
+8100 B-PRICE
+ตรัง B-DEST
+ไป O
+ลำปาง B-START
+13 B_TIME
+. I_TIME
+50 I_TIME
+
+3900 B-PRICE
+ตรัง B-DEST
+ไป O
+แม่สอด B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+3600 B-PRICE
+ตรัง B-DEST
+ไป O
+สุโขทัย B-START
+14 B_TIME
+. I_TIME
+50 I_TIME
+
+5600 B-PRICE
+ตรัง B-DEST
+ไป O
+พิษณุโลก B-START
+24 B_TIME
+. I_TIME
+50 I_TIME
+
+900 B-PRICE
+ตรัง B-DEST
+ไป O
+อุดรธานี B-START
+16 B_TIME
+. I_TIME
+50 I_TIME
+
+4900 B-PRICE
+ตรัง B-DEST
+ไป O
+นครพนม B-START
+6 B_TIME
+. I_TIME
+40 I_TIME
+
+500 B-PRICE
+ตรัง B-DEST
+ไป O
+ขอนเเก่น B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+2500 B-PRICE
+ตรัง B-DEST
+ไป O
+ร้อยเอ็ด B-START
+3 B_TIME
+. I_TIME
+30 I_TIME
+
+4400 B-PRICE
+ตรัง B-DEST
+ไป O
+อุบลราชธานี B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+1000 B-PRICE
+ตรัง B-DEST
+ไป O
+สุรินทร์ B-START
+16 B_TIME
+. I_TIME
+30 I_TIME
+
+3600 B-PRICE
+ตรัง B-DEST
+ไป O
+ระนอง B-START
+23 B_TIME
+. I_TIME
+00 I_TIME
+
+1700 B-PRICE
+ตรัง B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+1 B_TIME
+. I_TIME
+30 I_TIME
+
+700 B-PRICE
+ตรัง B-DEST
+ไป O
+สมุย B-START
+4 B_TIME
+. I_TIME
+20 I_TIME
+
+4500 B-PRICE
+ตรัง B-DEST
+ไป O
+นครศรีธรรมราช B-START
+17 B_TIME
+. I_TIME
+00 I_TIME
+
+9800 B-PRICE
+ตรัง B-DEST
+ไป O
+ภูเก็ต B-START
+10 B_TIME
+. I_TIME
+40 I_TIME
+
+6600 B-PRICE
+ตรัง B-DEST
+ไป O
+กระบี่ B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
+1300 B-PRICE
+ตรัง B-DEST
+ไป O
+หาดใหญ่ B-START
+1 B_TIME
+. I_TIME
+50 I_TIME
+
+5300 B-PRICE
+ตรัง B-DEST
+ไป O
+นราธิวาส B-START
+21 B_TIME
+. I_TIME
+20 I_TIME
+
+800 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+เชียงใหม่ B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+8100 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+BKK B-START
+12 B_TIME
+. I_TIME
+10 I_TIME
+
+8300 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+DMK B-START
+8 B_TIME
+. I_TIME
+10 I_TIME
+
+4200 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+เชียงราย B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+7200 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+CEI B-START
+0 B_TIME
+. I_TIME
+40 I_TIME
+
+6500 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+แม่ฮ่องสอน B-START
+0 B_TIME
+. I_TIME
+20 I_TIME
+
+4800 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+น่าน B-START
+8 B_TIME
+. I_TIME
+40 I_TIME
+
+3100 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+NNT B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+1100 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+แพร่ B-START
+19 B_TIME
+. I_TIME
+00 I_TIME
+
+2900 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ลำปาง B-START
+1 B_TIME
+. I_TIME
+00 I_TIME
+
+3900 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+แม่สอด B-START
+24 B_TIME
+. I_TIME
+20 I_TIME
+
+1400 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+สุโขทัย B-START
+3 B_TIME
+. I_TIME
+40 I_TIME
+
+4200 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+พิษณุโลก B-START
+21 B_TIME
+. I_TIME
+30 I_TIME
+
+4800 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+อุดรธานี B-START
+1 B_TIME
+. I_TIME
+40 I_TIME
+
+8200 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+นครพนม B-START
+24 B_TIME
+. I_TIME
+10 I_TIME
+
+5300 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ขอนเเก่น B-START
+2 B_TIME
+. I_TIME
+30 I_TIME
+
+1700 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ร้อยเอ็ด B-START
+11 B_TIME
+. I_TIME
+50 I_TIME
+
+9100 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+อุบลราชธานี B-START
+19 B_TIME
+. I_TIME
+50 I_TIME
+
+800 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+สุรินทร์ B-START
+18 B_TIME
+. I_TIME
+20 I_TIME
+
+600 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ระนอง B-START
+19 B_TIME
+. I_TIME
+30 I_TIME
+
+8900 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+สุราษฎร์ธานี B-START
+6 B_TIME
+. I_TIME
+00 I_TIME
+
+5300 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+สมุย B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+5000 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+นครศรีธรรมราช B-START
+0 B_TIME
+. I_TIME
+50 I_TIME
+
+7100 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ภูเก็ต B-START
+13 B_TIME
+. I_TIME
+10 I_TIME
+
+8800 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+กระบี่ B-START
+14 B_TIME
+. I_TIME
+20 I_TIME
+
+7600 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+ตรัง B-START
+21 B_TIME
+. I_TIME
+40 I_TIME
+
+3300 B-PRICE
+หาดใหญ่ B-DEST
+ไป O
+นราธิวาส B-START
+9 B_TIME
+. I_TIME
+40 I_TIME
+
