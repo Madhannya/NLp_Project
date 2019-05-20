@@ -17,25 +17,23 @@ def load_data(part):
                 
     return sents, labels
 
-x, y = load_data('dataset/laura1w_p3.txt')
+x, y = load_data('dataset/laura4w_p2.txt')
 x_2, y_2 = load_data('dataset/laura3w_t1.txt')
 # print(f)
 
 def write_data(data ,part):
     with open(part, 'w', encoding='utf-8-sig') as f:
+        f.writelines("ตั๋ว O\n")
         for sen, label in data:
             for i in range(8):
-                if i == 1:
+                if i < 3:
                     f.writelines(sen[i] + " " + label[i] + "\n")
-                if i == 3:
-                    f.writelines(sen[i] + " " + "B-START" + "\n")
-                if i == 5:
-                    f.writelines(sen[i] + " " + "B-DEST" + "\n")
-                if i == 7:
-                    f.writelines(sen[i] + " " + "B-PRICE" + "\n")
+                if i ==6:
+                    f.writelines(sen[i] + " " + "B-PRICE" + '\n')
             j = random.randrange(len(x_2)-1)
-            for i in range(4,7):
-                f.writelines(x_2[j][i] + " " + y_2[j][i] + "\n")
+            # for i in range(4,7):
+            f.writelines(x_2[j][5] + " " + "B-TIME" + "\n")
+            f.writelines(x_2[j][6] + " " + "I-TIME" + "\n")
             f.writelines('\n')
 
-write_data(zip(x, y) ,'dataset/some_word4.txt')
+write_data(zip(x, y) ,'dataset/some_word5.txt')
