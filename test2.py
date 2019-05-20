@@ -1,6 +1,6 @@
 import random
-des =open("./NLp_Project/Destination.txt","r",encoding = 'utf-8')
-sen =open("./NLp_Project/sentance.txt","r",encoding = 'utf-8')
+des =open("./Project/NLp_Project/Destination.txt","r",encoding = 'utf-8')
+sen =open("./Project/NLp_Project/sentance.txt","r",encoding = 'utf-8')
 complete = []
 fplane = []
 Alldes=[]
@@ -31,7 +31,7 @@ for x in range(int(count)):
 number = 0
 bb = 0
 sen.close()
-for a3 in range(len(Allsen)):
+for a3 in range(len(Allsen)-1):
     complete.append([])
     for a2 in range(len(Alltime)) :
         complete[bb].append([])
@@ -56,6 +56,9 @@ for a3 in range(len(Allsen)):
                                 if rand2 == 3 and rand >= 1 and rand <= 5 :
                                     complete[bb][a2].append(Alls + Alltime[a2] + "ตี"+str(rand)) 
 
+
+
+                               
                         #     if (rand == 1 and rand1 == 1) or rand ==2:
                         #         randsen= random.randint(0,5)
                         #         rand1 = random.randint(0,11)
@@ -73,6 +76,9 @@ for a3 in range(len(Allsen)):
                         #                 continue
                         #         else :
                         #             Alls = Alls + Alltime[randsen]
+                                    
+
+
                         # print(Alls)
                         # complete[bb].append(Alls)
                         number = number +1
@@ -82,7 +88,7 @@ des.close()
 print(number)
 for i, data in enumerate(complete):
     for j , data2 in enumerate(data):
-        fileout = open("./NLp_Project/sentence"+str(i)+"w_t"+str(j)+".txt","w", encoding='utf-8-sig')
+        fileout = open("./Project/NLp_Project/sentence"+str(i)+"w_time"+str(j)+".txt","w", encoding='utf-8-sig')
         for line in data2:
             fileout.writelines(line+"\n")
 

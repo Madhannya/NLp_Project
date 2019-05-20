@@ -17,8 +17,8 @@ def load_data(part):
                 
     return sents, labels
 
-x, y = load_data('dataset/laura4w_p2.txt')
-x_2, y_2 = load_data('dataset/laura3w_t1.txt')
+x, y = load_data('./Project/NLp_Project/laura1w_t3.txt')
+x_2, y_2 = load_data('./Project/NLp_Project/laura2w_p0.txt')
 # print(f)
 
 def write_data(data ,part):
@@ -26,14 +26,30 @@ def write_data(data ,part):
         for sen, label in data:
             f.writelines("ตั๋ว O\n")
             for i in range(8):
-                if i < 3:
-                    f.writelines(sen[i] + " " + label[i] + "\n")
-                if i ==6:
-                    f.writelines(sen[i] + " " + "B-PRICE" + '\n')
-            j = random.randrange(len(x_2)-1)
-            # for i in range(4,7):
-            f.writelines(x_2[j][5] + " " + "B-TIME" + "\n")
-            f.writelines(x_2[j][6] + " " + "I-TIME" + "\n")
+                if i ==5:
+                    f.writelines(sen[i] + " " + "B-DEST" + '\n')
+                # if i ==7:
+                #     f.writelines("" + '\n')
+            rand = random.randint(1,12)
+            rand1 = random.randint(0,1)
+            rand2 = random.randint(1,59)
+            f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n")
+            if rand1 == 0 :
+                word = "AM"
+            else : 
+                word = "PM"
+            if rand2 <= 9:
+                rand2 = "0"+str(rand2)
+            f.writelines(str(rand) + " " + "B-TIME" + "\n")
+            f.writelines("." + " " + "I-TIME" + "\n")
+            f.writelines(str(rand2) + " " + "I-TIME" + "\n")
+            f.writelines(word + " " + "I-TIME" + "\n") 
+            # f.writelines(str(random.randint(1,99)) + "00 " + "B-PRICE" + "\n") 
+            # j = random.randrange(len(x_2)-1)
+            # # for i in range(4,7):
+            # f.writelines(x_2[j][4] + " " + "B-PRICE" + "\n")
+            # for i in range(5,9):
+            #     f.writelines(x_2[j][i] + " " + "I-PRICE" + "\n")
             f.writelines('\n')
 
-write_data(zip(x, y) ,'dataset/some_word5.txt')
+write_data(zip(x, y) ,'./Project/NLp_Project/chain6.txt')
